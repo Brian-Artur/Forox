@@ -1,0 +1,19 @@
+{
+  "showLineNumber": true,
+  "foldIndent": true,
+  "showIndentGuide": true,
+  "strictLineBreaks": true,
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "assets",
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true
+}

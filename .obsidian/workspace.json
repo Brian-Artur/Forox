@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "7cda2c149869c6ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "faa5465007a295ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4754566d292e9490",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92333274bfae8c4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7af5237a8e2ad84c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4219ca24bafe351",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "2d14e8c2b8a70dd4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "82805c7efd239116",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 214.5
+  },
+  "right": {
+    "id": "87137d9fcc14686d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ba6c368fd68e9ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "800a82d28e9a8c3f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Clase/2025-04/24_Ju.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 24_Ju"
+            }
+          },
+          {
+            "id": "5a51f18a78a484a4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Clase/2025-04/24_Ju.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 24_Ju"
+            }
+          },
+          {
+            "id": "62ea50086b918007",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "448c9f74c8a7b15f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "handwritten-notes:Create empty handwritten note": true
+    }
+  },
+  "active": "4754566d292e9490",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-05-09 14.53.44.excalidraw.md",
+    "README.md",
+    "Drawer/Git.md",
+    "NOTES.md",
+    "TASKS.md",
+    "Clase/S_12/17_Lu.md",
+    "Clase/S_11/14_Vi.md",
+    "Clase/S_19/09_Vi.md",
+    "Clase/S_19/08_Ju.md",
+    "Excalidraw/Drawing 2025-05-09 14.45.27.excalidraw.md",
+    "assets/Pasted image 20250509150320.png",
+    "assets/Pasted image 20250509150306.png",
+    "assets/Pasted Image 20250509145430_919.png",
+    "assets/Pasted Image 20250509145348_565.png",
+    "assets/Pasted image 20250509145332.png",
+    "assets/Pasted Image 20250509144619_558.png",
+    "assets/Pasted Image 20250509144533_395.png",
+    "Excalidraw/Drawing 2025-05-09 10.32.45.excalidraw.md",
+    "assets/Pasted image 20250509143505.png",
+    "assets/Pasted image 20250509141026.png",
+    "assets/Pasted image 20250509140644.png",
+    "Clase/Etiquetas Semánticas.md",
+    "Clase/JS.md",
+    "Drawer/HTML & CSS.md",
+    "Excalidraw/Drawing 2025-05-08 13.56.01.excalidraw.md",
+    "Clase/S_14/01_Ma.md",
+    "Clase/S_13/27_Ju.md",
+    "Clase/S_13/26_Mi.md",
+    "Clase/S_13/25_Ma.md",
+    "Clase/S_13/24_Lu.md",
+    "Excalidraw/Drawing 2025-05-08 13.49.21.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-08 12.58.57.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-08 13.05.03.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-08 12.34.58.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-08 12.26.37.excalidraw.md",
+    "Clase/S_19/07_Mi.md",
+    "pdf/IFCD0210-MF0492_3-UF1844-Desarrollo-de-aplicaciones-web-en-el-entorno-servidor-Rafael-Luis-Granados-LaPaz_.pdf",
+    "Clase/S_19",
+    "pdf/Guía_rápida_UF1843_espanol.pdf",
+    "sakila-db.zip.url",
+    "Clase/S_18",
+    "Clase/S_18",
+    "Clase/S_17",
+    "Clase/S_16",
+    "Clase/S_13",
+    "Clase/S_12"
+  ]
+}

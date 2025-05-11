@@ -1,0 +1,54 @@
+h1 {
+    color: #6681b3;
+}
+
+h2 {
+    color: #579980;
+}
+
+h3 {
+    color:#84925c
+}
+
+h4 {
+    color:#99745c
+}
+
+h5 {
+    color: #99576d;
+}
+
+em {
+    color: rgb(133, 218, 116);
+    font-style: italic; /* Mantener el estilo cursiva */
+}
+
+
+strong {
+    color: rgb(233, 132, 209);
+    font-weight: bold; /* Mantener el estilo negrita */
+}
+
+strong em, em strong, strong em *, em strong * {
+    color: rgb(107, 193, 240);
+    font-style: italic; /* Mantener el estilo cursiva */
+    font-weight: bold; /* Mantener el estilo negrita */
+}
+
+mark {
+    background-color: rgba(230, 227, 52, 0.796);
+    border-radius: 3px;
+}
+
+img {
+    max-height: 500px;
+    max-width: 660px;
+}
+
+a {
+    color: #fd8801;
+
+}
+a:hover{
+    color: #ffab4c;
+}
