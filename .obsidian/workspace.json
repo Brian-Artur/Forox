@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clase/S19/09.md",
+                "file": "Drawer/Display.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09"
+              "title": "Display"
             }
           },
           {
@@ -39,7 +39,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-29 10.09.02.excalidraw.md"
+                "file": "assets/Excalidraw/Drawing 2025-04-29 10.09.02.excalidraw.md"
               },
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-04-29 10.09.02.excalidraw"
@@ -194,12 +194,28 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4754566d292e9490",
+  "active": "e4219ca24bafe351",
   "lastOpenFiles": [
-    "assets/Pasted image 20250509103103.png",
-    "Clase/S19/09.md",
-    "assets/1741540830587.jpeg",
+    "NOTES.md",
+    "Drawer/Display.md",
     "README.md",
+    "Drawer/Angular.md",
+    "TASKS.md",
+    "Drawer/Servidor & Cliente.md",
+    "Drawer/IA.md",
+    "assets/Excalidraw/fast-forward.md",
+    "Clase/git.md",
+    "Clase/JS.md",
+    "Clase/Etiquetas Semánticas.md",
+    "Clase/Accesibilidad y Usabilidad.md",
+    "Clase/S20/12.md",
+    "Clase/S20",
+    "Clase/S14/01.md",
+    "Clase/S17/22.md",
+    "assets/Excalidraw/Drawing 2025-04-22 14.24.37.excalidraw.md",
+    "Clase/S19/09.md",
+    "assets/Pasted image 20250509103103.png",
+    "assets/1741540830587.jpeg",
     "Sin título-2025-05-11-1751.excalidraw",
     "Clase/S19/08.md",
     "Clase/S19/07.md",
@@ -215,31 +231,16 @@
     "assets/1201d objeto por partes 1.svg",
     "assets/1201e tipado debil.svg",
     "Clase/S18/29.md",
-    "Excalidraw/Drawing 2025-04-29 10.09.02.excalidraw.md",
-    "Excalidraw/Drawing 2025-04-29 10.56.16.excalidraw.md",
+    "assets/Excalidraw/Drawing 2025-04-29 10.09.02.excalidraw.md",
+    "assets/Excalidraw/Drawing 2025-04-29 10.56.16.excalidraw.md",
     "Clase/S18/28.md",
-    "Clase/S17/27.md",
-    "Clase/S17/25.md",
-    "Clase/S17/24.md",
-    "Clase/S17/23.md",
-    "Clase/S17/22.md",
-    "Clase/S17/21.md",
-    "Clase/S16/19.md",
-    "Clase/S16/16.md",
-    "Clase/S16/15.md",
-    "Clase/S16/14.md",
-    "Clase/S15/13.md",
-    "Clase/S15/11.md",
-    "Clase/S15/10.md",
-    "Clase/S15/09.md",
     "Sin título-2025-05-11-1751.excalidraw.crswap",
-    "pdf/IFCD0210-MF0492_3-UF1844-Desarrollo-de-aplicaciones-web-en-el-entorno-servidor-Rafael-Luis-Granados-LaPaz_.pdf",
+    "Drawer/pdf/IFCD0210-MF0492_3-UF1844-Desarrollo-de-aplicaciones-web-en-el-entorno-servidor-Rafael-Luis-Granados-LaPaz_.pdf",
     "Clase/S19",
-    "pdf/Guía_rápida_UF1843_espanol.pdf",
+    "Drawer/pdf/Guía_rápida_UF1843_espanol.pdf",
     "sakila-db.zip.url",
     "Clase/S18",
     "Clase/S18",
-    "Clase/S17",
-    "Clase/S16"
+    "Clase/S17"
   ]
 }

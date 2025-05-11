@@ -4,7 +4,6 @@
 2. Abrir el repositorio desde Obsidian  
 <img src="./assets/Captura_20250418_102927.jpg" alt="Paso 2" width="400">  
 3. Aceptar plugins y configuración del autor  
-![hola](Sin%20título-2025-05-11-1751.excalidraw)
 # Registro de actividades  
 ## [14 Mar 2025](Clase/S11/14.md)  
 1. Principios **SOLID**.
@@ -148,7 +147,7 @@
 5. Compatibilidad con equipos antiguos
 6. Ejecutar JavaScript en Node
 7. Tipos de diagramas UML
-## 1 Apr 2025(Clase/S14/01.md) 
+## [1 Apr 2025](Clase/S14/01.md) 
 ### Git
 - Comitear todo lo que se vaya a subir al repositorio online.
 ### JavaScript
@@ -172,7 +171,7 @@
 	- NO ES buena práctica declarar variables globales. El ámbito de una variable GLOBAL es el **objeto WINDOW**. Por lo tanto puedo alcanzar la variable desde cualquier lugar.
 6. Colocación de los `exports` e `imports`.
 7. JavaScript: Paradigma de prototipos.
-## 2 Apr 2025
+## [2 Apr 2025](Clase/S14/02.md) 
 ### UF1844
 1. Vector vs Matriz
 2. Abstración y Polimorfismo
@@ -188,7 +187,7 @@
 5. Crear la rama **"seccion-03"**.
 6. Añadir  *000-template/* a rama **"seccion-03"**.
 7. Datos primitivos
-## 3 Apr 2025
+## [3 Apr 2025](Clase/S14/03.md) 
 ### JavaScript
 1. *007-tipos-datos-primitivos/*
 	1. app_boolean.js
@@ -207,7 +206,7 @@
 2. Izamiento
 3. Funciones con el operador `...rest`
 4. Forma de archivo .js
-## 4 Apr 2025
+## [4 Apr 2025](Clase/S14/04.md) 
 ### BBDD
 - Bases de datos noSQL 
 ### Python
@@ -226,7 +225,7 @@
 	2. Casting a array de distintos tipos de datos.
 	3. Matrices de 2 o más dimensiones.
 
-## 7 Apr 2025
+## [7 Apr 2025](Clase/S15/07.md) 
 ### JavaScript
 1. *010-arreglos-2/*
 	1. Longitud del array.
@@ -244,7 +243,7 @@
 	13. Método **slice()** : extraer elementos de un array a otro array.
 	14. Convertir un string en array para utilizar índices negativos. **for()** + **slice()**
 2. Objetos con number en sus claves
-## 8 Apr 2025
+## [8 Apr 2025](Clase/S15/07.md) 
 ### IA
 1. Estudiar con ChatGPT
 ### JavaScript
@@ -266,7 +265,7 @@
 		3. **Object.getOwnPropertyDescriptor()** : objeto que contiene los descriptores de ==TODAS las propiedades== del objeto.
 		4. **Object.values()** : array con los valores de las propiedades ==enumerables==.
 
-## 9 Apr 2025
+## [9 Apr 2025](Clase/S15/09.md) 
 ### BBDD
 - Datos en varios servidores
 ### IA
@@ -294,7 +293,7 @@
 	11. Funciones flecha con autoejecución.
 3. Set
 4. Tupla
-## 10 Apr 2025
+## [10 Apr 2025](Clase/S15/10.md) 
 ### JavaScript
 1. *015-retorno-de-funciones/*
 	1. Procedimiento : función que no retorna "nada"
@@ -317,7 +316,7 @@
 	7. Desestructurar **args**.
 	8. Desestructurar objeto literal
 		- Renombrando variables
-## 11 Apr 2025
+## [11 Apr 2025](Clase/S15/07.md) 
 ### JavaScript
 1. Desestructurar una parte del objeto
 2. *017-tips-desestructuracion-retornos/*
@@ -330,7 +329,7 @@
 		1. Funciones
 		2. Arrays
 		3. Objetos literales
-## 14 Apr 2025
+## [14 Apr 2025](Clase/S16/14.md) 
 ### JavaScript
 1. *999-.../002-Uso-de-new-en-arreglos-y-objetos-literales.pdf*
 2. *019-if-else/*
@@ -347,7 +346,7 @@
 	3. Comparación entre if-else y switch
 	4. Switch en `true` dentro del Else (ruta del NO)
 	5. Switch en `true` dentro del If (ruta del SÍ)
-## 15 Apr 2025
+## [15 Apr 2025](Clase/S16/14.md) 
 ### JavaScript
 1. *021-logica-booleana*
 	1. True y False
@@ -365,7 +364,7 @@
 	3. El método **includes()**
 	4. Operador ternario sin almacenar valor
 	5. Operador ternario almacenando valor en variable.
-## 16 Apr 2025
+## [16 Apr 2025](Clase/S16/14.md) 
 ### JavaScript
 1. Instalación de JSDoc: documentación de nuestro código.
 2. W3School: Guía de bolsillo.
@@ -378,7 +377,7 @@
 	2. Refactorizar (2ª vez)
 		1. Seccionar código en archivos
 		2. Import & Export
-## 21 Apr 2025
+## [21 Apr 2025](Clase/S17/21.md) 
 ### JavaScript
 1. Refactorización
 2. Cómo hacer código
@@ -397,7 +396,7 @@
 	2. Range artificial
 	3. For in
 	4. For of
-## 22 Apr 2025
+## [22 Apr 2025](Clase/S17/22.md) 
 ### JavaScript
 1. *025-for-for-in-for-of-foreach/*
 	1. For tradicional
@@ -420,7 +419,7 @@
 	9. Desestructuración anidada profunda
 	10. Desestructuración en parámetros de funciones + alias + valores por defecto
 	11. Desestructuración con objetos dentro de arrays y arrays dentro de objetos
-## 23 Apr 2025
+## [23 Apr 2025](Clase/S17/23.md) 
 ### TypeScript
 1. Instalar TypeScript
 	1. Instalar Node.js
@@ -433,7 +432,7 @@
 3. *004-booleanos/*
 	1. Encapsular el código dentro de funciones
 	2. Condiciones trabajando como booleanos.
-## 24 Apr 2025
+## [24 Apr 2025](Clase/S17/24.md) 
 ### TypeScript
 1. Export - Import enTS
 2. *005-numeros/*
@@ -461,7 +460,7 @@
 	5. Recorrer Objetos literales y Arrays
 	6. Recorrer Array asociativo (como en PHP)
 7. Diferencias entre Código en Función Autoejecutada vs. Código Global
-## 25 Apr 2025
+## [25 Apr 2025](Clase/S17/25.md) 
 ### TypeScript
 1. *010-void/
 	1. Void significa que la función "no regresa nada"*
@@ -484,7 +483,7 @@
 2. Qué es un ORM.
 3. Privilegios en una BBDD.
 4. Estructura de una tabla de BBDD.
-## 28 Apr 2025
+## [28 Apr 2025](Clase/S18/28.md) 
 ### JavaScript
 1. *999-.../009-modulos-en-javascript-importar-y-exportar.pdf*
 ### TypeScript
@@ -496,7 +495,7 @@
 ### SQL
 1. Cargar base de datos **"Sakila" en "XAMPP"**
 2. Ejercicio de base de datos para ultramarino (comercio local).
-## 29Apr 2025
+## [29Apr 2025](Clase/S18/28.md) 
 ### TypeScript
 1. *015-functions/*
 	1. Función clasica sin argumentos que accede a una variable del scope superior
@@ -504,7 +503,7 @@
 2. *016-functions-required-parameters/*
 3. *017-functions-optional-parameters/*
 4. *018-functions-default-parameters/*
-## 30 Apr 2025
+## [30 Apr 2025](Clase/S18/30.md) 
 ### TypeScript
 1. *019-functions-rest-parameters/*
 2. *020-functions-type/*
@@ -513,10 +512,10 @@
 2. Clave foránea
 3. Qué se considera Entidad
 4. Tipos de relaciones
-## 5 May 2025
-## 6 May 2025
-## 7 May 2025
-## 8 May 2025
+## [5 May 2025](Clase/S19/05.md) 
+## [6 May 2025](Clase/S19/06.md) 
+## [7 May 2025](Clase/S19/07.md) 
+## [8 May 2025](Clase/S19/08.md) 
 ## [9 May 2025](Clase/S19/09.md)
 
 
