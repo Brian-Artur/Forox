@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "29980122219960b3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/20250509103103.png"
+              },
+              "icon": "lucide-image",
+              "title": "20250509103103"
+            }
+          },
+          {
             "id": "660651bd319b26b3",
             "type": "leaf",
             "state": {
@@ -185,6 +197,7 @@
   "active": "4754566d292e9490",
   "lastOpenFiles": [
     "README.md",
+    "assets/20250509103103.png",
     "Clase/S19/09.md",
     "Sin título-2025-05-11-1751.excalidraw",
     "Clase/S19/08.md",
@@ -201,7 +214,6 @@
     "assets/1201d objeto por partes 1.svg",
     "assets/1201e tipado debil.svg",
     "assets/1201e tipado debil 1.svg",
-    "assets/git.svg",
     "Clase/S18/29.md",
     "Excalidraw/Drawing 2025-04-29 10.09.02.excalidraw.md",
     "Excalidraw/Drawing 2025-04-29 10.56.16.excalidraw.md",
@@ -220,7 +232,6 @@
     "Clase/S15/11.md",
     "Clase/S15/10.md",
     "Clase/S15/09.md",
-    "Clase/S15/08.md",
     "Sin título-2025-05-11-1751.excalidraw.crswap",
     "pdf/IFCD0210-MF0492_3-UF1844-Desarrollo-de-aplicaciones-web-en-el-entorno-servidor-Rafael-Luis-Granados-LaPaz_.pdf",
     "Clase/S19",
