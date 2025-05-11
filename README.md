@@ -6,7 +6,7 @@
 3. Aceptar plugins y configuración del autor  
 
 # Registro de actividades  
-## [14 Mar 2025](Clase/S_11/14_Vi)  
+## [14 Mar 2025](Clase/S_11/14_Vi.md)  
 1. Principios **SOLID**.
 2. Entender las necesidades de un proyecto software.
 3. Clean Code
@@ -19,7 +19,7 @@
 6. Confirmar cambio en el repositorio
 7. Volver a una versión anterior
 
-## [17 Mar 2025](Clase/S_11/17_Lu)
+## [17 Mar 2025](Clase/S_11/17_Lu.md)
 1. Factorizar vs Refactorizar.
 ### UF1843
 1. Centrarse en el buen funcionamiento antes de adentrarse en la accesibilidad.
@@ -35,7 +35,7 @@
 4. Renombrar archivos y ramas
 5. Sacar archivos/carpetas del **"stage"**
 
-## [18 Mar 2025](Clase/S_11/18_Ma)
+## [18 Mar 2025](Clase/S_11/18_Ma.md)
 ### IA
 1. Cómo utilizar la Inteligencia Artificial
 2. Empleo del diccionario de la RAE en la programación.
@@ -51,7 +51,7 @@
 4. Manejo de ramas
 5. Utilizar un editor de texto alternativo.
 
-## [19 Mar 2025](Clase/S_11/19_Mi)
+## [19 Mar 2025](Clase/S_11/19_Mi.md)
 ### Git
 1. Ver el contenido de un archivo desde carpeta "padre", "hijo" y "abuelo".
 2. Crear rama y cambiarse a ella en un paso.
@@ -66,7 +66,7 @@
 3. Lenguaje UML
 4. La importancia de la planificación
 5. Prototipado del producto
-## [20 Mar 2025](Clase/S_11/20_Ju)
+## [20 Mar 2025](Clase/S_11/20_Ju.md)
 ### UF1843
 1. Frameworks CSS ligeros.
 2. Analizador de virus.
@@ -82,7 +82,7 @@
 3. Llevar un orden en los commits. 
 4. Llevar al repositorio local en un paso: `git commit -am "mensaje"`
 5. Regresar a un commit anterior
-## [21 Mar 2025](Clase/S_11/21_Vi)
+## [21 Mar 2025](Clase/S_11/21_Vi.md)
 ### Git
 1. Empleo de una rama por cada versión.
 2. Renombrar desde la interfaz gráfica.
