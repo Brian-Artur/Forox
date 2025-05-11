@@ -3,5 +3,6 @@
   "accentColor": "#cb5d8d",
   "theme": "moonstone",
   "nativeMenus": false,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": false,
+  "baseFontSize": 16
 }

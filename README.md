@@ -4,9 +4,9 @@
 2. Abrir el repositorio desde Obsidian  
 <img src="./assets/Captura_20250418_102927.jpg" alt="Paso 2" width="400">  
 3. Aceptar plugins y configuración del autor  
-
+![hola](Sin%20título-2025-05-11-1751.excalidraw)
 # Registro de actividades  
-## [14 Mar 2025](Clase/S_11/14_Vi.md)  
+## [14 Mar 2025](Clase/S11/14.md)  
 1. Principios **SOLID**.
 2. Entender las necesidades de un proyecto software.
 3. Clean Code
@@ -19,7 +19,7 @@
 6. Confirmar cambio en el repositorio
 7. Volver a una versión anterior
 
-## [17 Mar 2025](Clase/S_11/17_Lu.md)
+## [17 Mar 2025](Clase/S12/17.md)  
 1. Factorizar vs Refactorizar.
 ### UF1843
 1. Centrarse en el buen funcionamiento antes de adentrarse en la accesibilidad.
@@ -35,7 +35,7 @@
 4. Renombrar archivos y ramas
 5. Sacar archivos/carpetas del **"stage"**
 
-## [18 Mar 2025](Clase/S_11/18_Ma.md)
+## [18 Mar 2025](Clase/S12/18.md)  
 ### IA
 1. Cómo utilizar la Inteligencia Artificial
 2. Empleo del diccionario de la RAE en la programación.
@@ -51,7 +51,7 @@
 4. Manejo de ramas
 5. Utilizar un editor de texto alternativo.
 
-## [19 Mar 2025](Clase/S_11/19_Mi.md)
+## [19 Mar 2025](Clase/S12/19.md)  
 ### Git
 1. Ver el contenido de un archivo desde carpeta "padre", "hijo" y "abuelo".
 2. Crear rama y cambiarse a ella en un paso.
@@ -66,7 +66,7 @@
 3. Lenguaje UML
 4. La importancia de la planificación
 5. Prototipado del producto
-## [20 Mar 2025](Clase/S_11/20_Ju.md)
+## [20 Mar 2025](Clase/S12/20.md)  
 ### UF1843
 1. Frameworks CSS ligeros.
 2. Analizador de virus.
@@ -82,13 +82,13 @@
 3. Llevar un orden en los commits. 
 4. Llevar al repositorio local en un paso: `git commit -am "mensaje"`
 5. Regresar a un commit anterior
-## [21 Mar 2025](Clase/S_11/21_Vi.md)
+## [21 Mar 2025](Clase/S12/21.md)  
 ### Git
 1. Empleo de una rama por cada versión.
 2. Renombrar desde la interfaz gráfica.
 3. Renombrar rama actual.
 4. Merge manual
-## 24 Mar 2025
+## [24 Mar 2025](Clase/S13/24.md)  
 #### JavaScript
 1. Lenguaje multiparadigma
 2. Notación por punto y por corchete.
@@ -97,11 +97,11 @@
 #### Git
 1. Buena práctica para nombrar resolución de conflictos pasados.
 2. Agregar etiqueta a un commit.
-### 25 Mar 2025
+## [25 Mar 2025](Clase/S13/25.md) 
 1. Canales de interés
 2. Contraseña segura
 3. Método de aprendizaje
-#### Git
+### Git
 1. Gitflow
 2. El **Stash** : pequeño bolsillo
 	1. Caso de uso
@@ -111,17 +111,17 @@
 4. Rebase : qué es y para qué sirve
 5. Hacer commit vacío
 6. Crear rama basada en otra.
-### 26 Mar 2025
-#### Git
+## [26 Mar 2025](Clase/S13/25.md) 
+### Git
 1. Flujo real de rebase vs representación en la interfaz gráfica.
 2. Ejercicio práctico de ramas y rebases.
 3. Rebase interactivo.
-### 27 Mar 2025
-#### Git
+## [27 Mar 2025](Clase/S13/27.md) 
+### Git
 1. Rebase interactivo
 	1. Fusionar commits
 	2. Editar mensaje de commits pasados
-#### JavaScript
+### JavaScript
 1. Tipos de datos
 2. Condicionales en pseudolenguaje.
 3. Anidación de condicionales.
@@ -134,13 +134,12 @@
 	4. Funciones variádicas con rest y objeto de configuración.
 	5. Función recursiva
 	6. Función que contiene a otra función
-## S.14
-### 31 Mar 2025
-#### Git
+## [31 Mar 2025](Clase/S14/31.md) 
+### Git
 1. Iniciar repositorio GitHub
 2. Generar Token para repositorios privados
 3. Truco para que no pida constantemente el token.
-#### JavaScript
+### JavaScript
 1. Saber la finaliza del proyecto.
 2. Métodos de `console`
 3. Qué hace `console.log`?
@@ -149,10 +148,10 @@
 5. Compatibilidad con equipos antiguos
 6. Ejecutar JavaScript en Node
 7. Tipos de diagramas UML
-### 1 Apr 2025
-#### Git
+## 1 Apr 2025(Clase/S14/01.md) 
+### Git
 - Comitear todo lo que se vaya a subir al repositorio online.
-#### JavaScript
+### JavaScript
 1. *002-variables/*
 	- Declaración e inicialización de variables y constantes con valores
 2. *003-console/*  
@@ -173,14 +172,14 @@
 	- NO ES buena práctica declarar variables globales. El ámbito de una variable GLOBAL es el **objeto WINDOW**. Por lo tanto puedo alcanzar la variable desde cualquier lugar.
 6. Colocación de los `exports` e `imports`.
 7. JavaScript: Paradigma de prototipos.
-### 2 Apr 2025
-#### UF1844
+## 2 Apr 2025
+### UF1844
 1. Vector vs Matriz
 2. Abstración y Polimorfismo
 3. Teoría de grafos
 4. Evitar imprevistos
 5. Pruebas unitarias
-#### JavaScript
+### JavaScript
 1. *006-promp-confirm-alert/*
 	- `.alert()`, `.prompt()` y `.confirm()`: **métodos** del objeto window
 2. Crear la rama **"seccion-01"**.
@@ -189,8 +188,8 @@
 5. Crear la rama **"seccion-03"**.
 6. Añadir  *000-template/* a rama **"seccion-03"**.
 7. Datos primitivos
-### 3 Apr 2025
-#### JavaScript
+## 3 Apr 2025
+### JavaScript
 1. *007-tipos-datos-primitivos/*
 	1. app_boolean.js
 		1. Booleanos: true, false y casting a number.
@@ -228,7 +227,7 @@
 	3. Matrices de 2 o más dimensiones.
 
 ## 7 Apr 2025
-#### JavaScript
+### JavaScript
 1. *010-arreglos-2/*
 	1. Longitud del array.
 	2. 1° y último elemento.
@@ -245,10 +244,10 @@
 	13. Método **slice()** : extraer elementos de un array a otro array.
 	14. Convertir un string en array para utilizar índices negativos. **for()** + **slice()**
 2. Objetos con number en sus claves
-### 8 Apr 2025
-#### IA
+## 8 Apr 2025
+### IA
 1. Estudiar con ChatGPT
-#### JavaScript
+### JavaScript
 1. *011-array-determinante-matriz/*
 	- Calcular el determinante de una m de 3x3, como posible ejercicio matemático, para trabajar con las posiciones de una matriz.
 2. Array asociativo
@@ -267,14 +266,14 @@
 		3. **Object.getOwnPropertyDescriptor()** : objeto que contiene los descriptores de ==TODAS las propiedades== del objeto.
 		4. **Object.values()** : array con los valores de las propiedades ==enumerables==.
 
-### 9 Apr 2025
-#### BBDD
+## 9 Apr 2025
+### BBDD
 - Datos en varios servidores
-#### IA
+### IA
 - Profe GPT
-#### Python
+### Python
 - PEP 20 – El Zen de Python: útil para cualquier lenguaje de programación.
-#### JavaScript
+### JavaScript
 1. *013-ejercicio-arrays/*
 	- Notación mixta
 2. *014-funciones-basicas-y-de-flecha/*
@@ -295,8 +294,8 @@
 	11. Funciones flecha con autoejecución.
 3. Set
 4. Tupla
-### 10 Apr 2025
-#### JavaScript
+## 10 Apr 2025
+### JavaScript
 1. *015-retorno-de-funciones/*
 	1. Procedimiento : función que no retorna "nada"
 	2. Comportamiento del `return`
@@ -318,8 +317,8 @@
 	7. Desestructurar **args**.
 	8. Desestructurar objeto literal
 		- Renombrando variables
-### 11 Apr 2025
-#### JavaScript
+## 11 Apr 2025
+### JavaScript
 1. Desestructurar una parte del objeto
 2. *017-tips-desestructuracion-retornos/*
 	1. Desestructuración de argumentos de un objeto.
@@ -331,10 +330,8 @@
 		1. Funciones
 		2. Arrays
 		3. Objetos literales
-## S.16
-
-### 14 Apr 2025
-#### JavaScript
+## 14 Apr 2025
+### JavaScript
 1. *999-.../002-Uso-de-new-en-arreglos-y-objetos-literales.pdf*
 2. *019-if-else/*
 	1. Comportamiento de un if
@@ -350,8 +347,8 @@
 	3. Comparación entre if-else y switch
 	4. Switch en `true` dentro del Else (ruta del NO)
 	5. Switch en `true` dentro del If (ruta del SÍ)
-### 15 Apr 2025
-#### JavaScript
+## 15 Apr 2025
+### JavaScript
 1. *021-logica-booleana*
 	1. True y False
 	2. Operador de negación
@@ -368,8 +365,8 @@
 	3. El método **includes()**
 	4. Operador ternario sin almacenar valor
 	5. Operador ternario almacenando valor en variable.
-### 16 Apr 2025
-#### JavaScript
+## 16 Apr 2025
+### JavaScript
 1. Instalación de JSDoc: documentación de nuestro código.
 2. W3School: Guía de bolsillo.
 3. Operador ternario con varias sentencias.
@@ -381,9 +378,8 @@
 	2. Refactorizar (2ª vez)
 		1. Seccionar código en archivos
 		2. Import & Export
-## S.17
-### 21 Apr 2025
-#### JavaScript
+## 21 Apr 2025
+### JavaScript
 1. Refactorización
 2. Cómo hacer código
 3. *023-operador-ternario-ejercicio-fase2/*
@@ -401,8 +397,8 @@
 	2. Range artificial
 	3. For in
 	4. For of
-### 22 Apr 2025
-#### JavaScript
+## 22 Apr 2025
+### JavaScript
 1. *025-for-for-in-for-of-foreach/*
 	1. For tradicional
 	2. For in (clave objeto)
@@ -424,8 +420,8 @@
 	9. Desestructuración anidada profunda
 	10. Desestructuración en parámetros de funciones + alias + valores por defecto
 	11. Desestructuración con objetos dentro de arrays y arrays dentro de objetos
-### 23 Apr 2025
-#### TypeScript
+## 23 Apr 2025
+### TypeScript
 1. Instalar TypeScript
 	1. Instalar Node.js
 	2. Instalar TypeScript
@@ -437,8 +433,8 @@
 3. *004-booleanos/*
 	1. Encapsular el código dentro de funciones
 	2. Condiciones trabajando como booleanos.
-### 24 Apr 2025
-#### TypeScript
+## 24 Apr 2025
+### TypeScript
 1. Export - Import enTS
 2. *005-numeros/*
 	1. String con contenido = 1
@@ -465,8 +461,8 @@
 	5. Recorrer Objetos literales y Arrays
 	6. Recorrer Array asociativo (como en PHP)
 7. Diferencias entre Código en Función Autoejecutada vs. Código Global
-### 25 Apr 2025
-#### TypeScript
+## 25 Apr 2025
+### TypeScript
 1. *010-void/
 	1. Void significa que la función "no regresa nada"*
 	2. Función tradicional
@@ -482,45 +478,46 @@
 	3. Arreglos
 	4. Enumeraciones
 	5. Retorno de funciones
-	6. Aserciones de tipo
-#### SQL
+	6. Aserciones de tip
+### SQL
 1. SQL : lenguaje declarativo.
 2. Qué es un ORM.
 3. Privilegios en una BBDD.
 4. Estructura de una tabla de BBDD.
-## S.18
-### 28 Apr 2025
-#### JavaScript
+## 28 Apr 2025
+### JavaScript
 1. *999-.../009-modulos-en-javascript-importar-y-exportar.pdf*
-#### TypeScript
+### TypeScript
 1. *999-.../010-modulos-en-typescript-importar-y-exportar.pdf*
 2. *014-EXTRA-modulos-js/*
 	1. Activar **ES6** en "tsconfig.json" para permitir la importación en TS.
 	2. 4 Formas de importar y exportar un función.
 3. Inferencia de tipos en las funciones
-#### SQL
+### SQL
 1. Cargar base de datos **"Sakila" en "XAMPP"**
 2. Ejercicio de base de datos para ultramarino (comercio local).
-### 29Apr 2025
-#### TypeScript
+## 29Apr 2025
+### TypeScript
 1. *015-functions/*
 	1. Función clasica sin argumentos que accede a una variable del scope superior
 	2. 
 2. *016-functions-required-parameters/*
 3. *017-functions-optional-parameters/*
 4. *018-functions-default-parameters/*
-### 30 Apr 2025
-#### TypeScript
+## 30 Apr 2025
+### TypeScript
 1. *019-functions-rest-parameters/*
 2. *020-functions-type/*
-#### SQL
+### SQL
 1. Clave primaria
 2. Clave foránea
 3. Qué se considera Entidad
 4. Tipos de relaciones
-## S.19
-### 5 May 2025
-
+## 5 May 2025
+## 6 May 2025
+## 7 May 2025
+## 8 May 2025
+## [9 May 2025](Clase/S19/09.md)
 
 
 

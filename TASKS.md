@@ -14,4 +14,4 @@
 
 ![[Task]]
 
-![[25_Vi#^febf67|holaf]]
+![[Clase/S17/25#^febf67|holaf]]
