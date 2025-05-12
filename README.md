@@ -4,6 +4,7 @@
 2. Abrir el repositorio desde Obsidian  
 <img src="./assets/Captura_20250418_102927.jpg" alt="Paso 2" width="400">  
 3. Aceptar plugins y configuración del autor  
+![ED2025-05-12_08.55.36](ED2025-05-12_08.55.36.md)
 # Registro de actividades  
 ## [14 Mar 2025](Clase/S11/14.md)  
 1. Principios **SOLID**.
