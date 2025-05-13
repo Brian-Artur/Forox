@@ -13,36 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clase/S20/12.md",
+                "file": "Clase/S19/08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12"
+              "title": "08"
             }
           },
           {
-            "id": "c588766d6aaed44d",
+            "id": "c84d636f1107f096",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "assets/Excalidraw/ED2025-05-12_13.21.52.md"
+                "file": "Clase/SQL.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "ED2025-05-12_13.21.52"
-            }
-          },
-          {
-            "id": "8ddabf363cdbaf2d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "assets/Excalidraw/ED2025-05-12_10.45.19.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "ED2025-05-12_10.45.19"
+              "icon": "lucide-file",
+              "title": "SQL"
             }
           }
         ]
@@ -68,7 +58,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -184,20 +174,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "handwritten-notes:Create empty handwritten note": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "4754566d292e9490",
   "lastOpenFiles": [
-    "assets/Excalidraw/ED2025-05-12_13.21.52.md",
+    "Clase/SQL.md",
     "Clase/S20/12.md",
+    "Clase/S19/09.md",
+    "assets/Pasted image 20250513073033.png",
+    "Clase/S19/08.md",
+    "assets/Pasted image 20250512191008.png",
+    "assets/Excalidraw/ED2025-05-12_18.59.15.md",
+    "assets/Pasted Image 20250512185947_817.png",
+    "assets/Excalidraw/ED2025-05-12_13.21.52.md",
     "assets/Pasted Image 20250512132301_645.png",
     "assets/Pasted image 20250512121454.png",
     "assets/Excalidraw/ED2025-05-12_10.45.19.md",
@@ -208,9 +205,6 @@
     "assets/Excalidraw/ED2025-05-12_10.15.15.md",
     "assets/Excalidraw/ED2025-05-12_10.04.09.md",
     "assets/Pasted Image 20250512101752_678.png",
-    "assets/Pasted Image 20250512101721_347.png",
-    "assets/Pasted Image 20250512101611_089.png",
-    "assets/Pasted Image 20250512101519_964.png",
     "assets/Excalidraw/ED2025-05-12_09.59.09.md",
     "assets/Excalidraw/ED2025-05-12_09.34.16.md",
     "assets/Excalidraw/ED2025-05-12_09.05.11.md",
@@ -229,9 +223,6 @@
     "Clase/Accesibilidad y Usabilidad.md",
     "Clase/S20",
     "Clase/S14/01.md",
-    "Clase/S17/22.md",
-    "assets/Excalidraw/Drawing 2025-04-22 14.24.37.excalidraw.md",
-    "Clase/S19/09.md",
     "Sin título-2025-05-11-1751.excalidraw",
     "Sin título-2025-05-11-1751.excalidraw.crswap",
     "Drawer/pdf/IFCD0210-MF0492_3-UF1844-Desarrollo-de-aplicaciones-web-en-el-entorno-servidor-Rafael-Luis-Granados-LaPaz_.pdf",
