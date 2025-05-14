@@ -13,16 +13,52 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clase/S20/13.md",
+                "file": "Clase/S19/05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13"
+              "title": "05"
             }
           },
           {
-            "id": "4f0cc73185798c33",
+            "id": "ada216983f9afe72",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "assets/Excalidraw/ED2025-05-13_09.47.26.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ED2025-05-13_09.47.26"
+            }
+          },
+          {
+            "id": "8eb03c8971f33274",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "assets/Excalidraw/ED2025-05-13_09.44.46.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ED2025-05-13_09.44.46"
+            }
+          },
+          {
+            "id": "92bf3ed072b1c8c6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "assets/Excalidraw/ED2025-05-13_19.31.02.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ED2025-05-13_19.31.02"
+            }
+          },
+          {
+            "id": "ccffb76bd03f7a43",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -31,18 +67,6 @@
               },
               "icon": "excalidraw-icon",
               "title": "ED2025-05-13_14.05.06"
-            }
-          },
-          {
-            "id": "9c9a4734ae4609ae",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "assets/Excalidraw/ED2025-05-13_12.35.32.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "ED2025-05-13_12.35.32"
             }
           }
         ]
@@ -68,7 +92,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -184,22 +208,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "handwritten-notes:Create empty handwritten note": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "4754566d292e9490",
   "lastOpenFiles": [
-    "assets/Excalidraw/ED2025-05-13_14.05.06.md",
+    "Clase/S20/14.md",
     "Clase/S20/13.md",
-    "assets/Pasted image 20250513135057.png",
+    "assets/Excalidraw/ED2025-05-13_09.47.26.md",
+    "assets/Excalidraw/ED2025-05-13_09.44.46.md",
+    "assets/Excalidraw/ED2025-05-13_19.31.02.md",
+    "assets/Pasted Image 20250513193134_474.png",
+    "assets/Excalidraw/ED2025-05-13_14.05.06.md",
+    "assets/Pasted Image 20250513191540_724.png",
+    "assets/Pasted Image 20250513191449_853.png",
     "assets/Excalidraw/ED2025-05-13_12.35.32.md",
+    "Clase/S20/12.md",
+    "assets/Pasted image 20250513135057.png",
     "assets/Pasted Image 20250513123601_315.png",
     "assets/Excalidraw/ED2025-05-13_12.30.30.md",
     "assets/Pasted Image 20250513123101_318.png",
@@ -210,13 +242,7 @@
     "assets/Excalidraw/ED2025-05-13_10.35.39.md",
     "assets/Pasted Image 20250513103615_277.png",
     "assets/Excalidraw/ED2025-05-13_10.24.13.md",
-    "assets/Pasted Image 20250513102453_031.png",
-    "assets/Pasted Image 20250513102416_894.png",
     "assets/Excalidraw/ED2025-05-13_10.07.03.md",
-    "assets/Pasted Image 20250513101650_867.png",
-    "assets/Excalidraw/ED2025-05-13_09.47.26.md",
-    "assets/Excalidraw/ED2025-05-13_09.44.46.md",
-    "Clase/S20/12.md",
     "assets/Excalidraw/ED2025-05-13_09.37.35.md",
     "Clase/S19/08.md",
     "Clase/SQL.md",
@@ -229,9 +255,6 @@
     "assets/Excalidraw/ED2025-05-12_09.59.09.md",
     "assets/Excalidraw/ED2025-05-12_09.34.16.md",
     "assets/Excalidraw/ED2025-05-12_09.05.11.md",
-    "README.md",
-    "Drawer/Display.md",
-    "assets/Excalidraw/ED2025-05-12_08.55.36.md",
     "Clase/S20",
     "Sin título-2025-05-11-1751.excalidraw",
     "Sin título-2025-05-11-1751.excalidraw.crswap",
