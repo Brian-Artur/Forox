@@ -520,6 +520,22 @@
 ## [9 May 2025](Clase/S19/09.md)
 
 
+## [12 May 2025](Clase/S20/12.md)  
+### SQL
+1. Group by Distint
+2. Having
+3. Describe
+4. Select + Group by + Having
+### TypeScript
+1. Izamiento
+## [13 May 2025](Clase/S20/13.md)   
+### SQL
+1. And
+2. Group by
+3. Or
+4. Like
+5. Not
+6. Alias
 
-
-
+### TypeScript
+1. Class
