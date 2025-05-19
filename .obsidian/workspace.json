@@ -13,12 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clase/S20/16.md",
+                "file": "Clase/S21/19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16"
+              "title": "19"
+            }
+          },
+          {
+            "id": "9edb8492c98e319f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "assets/Excalidraw/ED2025-05-19_13.28.18.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ED2025-05-19_13.28.18"
+            }
+          },
+          {
+            "id": "b639f33d5bcbbf1d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -44,7 +66,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -160,22 +182,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "handwritten-notes:Create empty handwritten note": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "a0dc17ac428610a3",
   "lastOpenFiles": [
+    "Clase/S21/19.md",
+    "assets/Excalidraw/ED2025-05-19_13.28.18.md",
+    "assets/Excalidraw/ED2025-05-19_12.35.20.md",
+    "Drawer/pdf/IFCD0210-MF0492_3-UF1845-Acceso-a-datos-en-aplicaciones-web-del-entorno-servidor-Alejandro-Bernabe-Duran.pdf",
+    "Clase/S21",
+    "Clase/S20/16.md",
     "Clase/S20/18.md",
     "assets/Pasted image 20250518161521.png",
     "Clase/S20/17.md",
-    "Drawer/pdf/IFCD0210-MF0492_3-UF1845-Acceso-a-datos-en-aplicaciones-web-del-entorno-servidor-Alejandro-Bernabe-Duran.pdf",
     "assets/Excalidraw/ED2025-05-17_21.57.34.md",
     "assets/Pasted image 20250517222036.png",
     "assets/Pasted image 20250517222019.png",
@@ -190,7 +217,6 @@
     "assets/Pasted Image 20250517215743_042.png",
     "assets/Excalidraw/ED2025-05-17_20.07.57.md",
     "assets/Excalidraw/ED2025-05-16_14.07.58.md",
-    "Clase/S20/16.md",
     "assets/Excalidraw/ED2025-05-16_14.21.52.md",
     "assets/Excalidraw/ED2025-05-16_12.05.37.md",
     "assets/Excalidraw/ED2025-05-16_12.23.52.md",
@@ -206,8 +232,6 @@
     "Clase/S20/13.md",
     "assets/Excalidraw/ED2025-05-14_11.08.35.md",
     "assets/Excalidraw/ED2025-05-14_10.13.59.md",
-    "Clase/S20/12.md",
-    "README.md",
     "Clase/S20",
     "Sin título-2025-05-11-1751.excalidraw",
     "Sin título-2025-05-11-1751.excalidraw.crswap",
@@ -215,7 +239,6 @@
     "Clase/S19",
     "Drawer/pdf/Guía_rápida_UF1843_espanol.pdf",
     "sakila-db.zip.url",
-    "Clase/S18",
     "Clase/S18"
   ]
 }
