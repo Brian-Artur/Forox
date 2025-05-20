@@ -22,25 +22,15 @@
             }
           },
           {
-            "id": "9edb8492c98e319f",
+            "id": "1267e2418f2b1f95",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "assets/Excalidraw/ED2025-05-19_13.28.18.md"
+                "file": "assets/Excalidraw/ED2025-05-19_20.00.17.md"
               },
               "icon": "excalidraw-icon",
-              "title": "ED2025-05-19_13.28.18"
-            }
-          },
-          {
-            "id": "b639f33d5bcbbf1d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ED2025-05-19_20.00.17"
             }
           }
         ]
@@ -66,7 +56,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -100,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "87137d9fcc14686d",
@@ -182,20 +173,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "handwritten-notes:Create empty handwritten note": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "a0dc17ac428610a3",
   "lastOpenFiles": [
+    "assets/Excalidraw/ED2025-05-19_20.00.17.md",
     "Clase/S21/19.md",
     "assets/Excalidraw/ED2025-05-19_13.28.18.md",
+    "assets/Excalidraw/ED2025-05-19_21.57.09.md",
+    "assets/Pasted Image 20250519215740_357.png",
+    "assets/Excalidraw/ED2025-05-19_21.53.01.md",
+    "assets/Pasted Image 20250519215341_819.png",
+    "assets/Excalidraw/ED2025-05-19_21.49.04.md",
+    "assets/Pasted Image 20250519215007_601.png",
+    "assets/Excalidraw/ED2025-05-19_21.47.18.md",
+    "assets/Pasted Image 20250519214733_534.png",
+    "assets/Pasted Image 20250519200049_049.png",
+    "Drawer/Prompts/Subconsulta en SQL.md",
+    "Clase/S21/20.md",
+    "Drawer/Prompts/Más acerca de la herencia.md",
+    "Drawer/Prompts/Herencia.md",
+    "Drawer/IA.md",
+    "Drawer/Prompts",
     "assets/Excalidraw/ED2025-05-19_12.35.20.md",
     "Drawer/pdf/IFCD0210-MF0492_3-UF1845-Acceso-a-datos-en-aplicaciones-web-del-entorno-servidor-Alejandro-Bernabe-Duran.pdf",
     "Clase/S21",
@@ -208,37 +215,20 @@
     "assets/Pasted image 20250517222019.png",
     "assets/Pasted image 20250517221540.png",
     "assets/Pasted image 20250517221325.png",
-    "assets/Pasted image 20250517220834.png",
-    "assets/Pasted Image 20250517201457_982.png",
     "assets/Excalidraw/ED2025-05-17_20.13.50.md",
     "assets/Excalidraw/ED2025-05-17_21.55.03.md",
-    "assets/Pasted Image 20250517215835_203.png",
-    "assets/Pasted Image 20250517215757_494.png",
-    "assets/Pasted Image 20250517215743_042.png",
     "assets/Excalidraw/ED2025-05-17_20.07.57.md",
     "assets/Excalidraw/ED2025-05-16_14.07.58.md",
     "assets/Excalidraw/ED2025-05-16_14.21.52.md",
     "assets/Excalidraw/ED2025-05-16_12.05.37.md",
     "assets/Excalidraw/ED2025-05-16_12.23.52.md",
     "Clase/S20/15.md",
-    "assets/Excalidraw/ED2025-05-15_12.51.23.md",
-    "assets/Excalidraw/ED2025-05-15_14.43.35.md",
-    "assets/Excalidraw/ED2025-05-15_13.32.24.md",
-    "assets/Excalidraw/ED2025-05-15_12.56.49.md",
-    "assets/Excalidraw/ED2025-05-15_09.34.34.md",
-    "Clase/S20/14.md",
-    "assets/Excalidraw/ED2025-05-15_07.22.35.md",
-    "assets/Excalidraw/ED2025-05-14_13.01.00.md",
-    "Clase/S20/13.md",
-    "assets/Excalidraw/ED2025-05-14_11.08.35.md",
-    "assets/Excalidraw/ED2025-05-14_10.13.59.md",
     "Clase/S20",
     "Sin título-2025-05-11-1751.excalidraw",
     "Sin título-2025-05-11-1751.excalidraw.crswap",
     "Drawer/pdf/IFCD0210-MF0492_3-UF1844-Desarrollo-de-aplicaciones-web-en-el-entorno-servidor-Rafael-Luis-Granados-LaPaz_.pdf",
     "Clase/S19",
     "Drawer/pdf/Guía_rápida_UF1843_espanol.pdf",
-    "sakila-db.zip.url",
-    "Clase/S18"
+    "sakila-db.zip.url"
   ]
 }
