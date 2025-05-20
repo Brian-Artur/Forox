@@ -13,24 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clase/S21/19.md",
+                "file": "Clase/S21/20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19"
+              "title": "20"
             }
           },
           {
-            "id": "1267e2418f2b1f95",
+            "id": "adfe4d2a669f7988",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "assets/Excalidraw/ED2025-05-19_20.00.17.md"
+                "file": "assets/Excalidraw/ED2025-05-20_14.11.06.md"
               },
               "icon": "excalidraw-icon",
-              "title": "ED2025-05-19_20.00.17"
+              "title": "ED2025-05-20_14.11.06"
             }
           }
         ]
@@ -56,7 +56,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "87137d9fcc14686d",
@@ -173,32 +172,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "handwritten-notes:Create empty handwritten note": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "a0dc17ac428610a3",
   "lastOpenFiles": [
-    "assets/Excalidraw/ED2025-05-19_20.00.17.md",
+    "assets/Excalidraw/ED2025-05-20_14.11.06.md",
+    "assets/Pasted Image 20250520141147_606.png",
+    "assets/Pasted Image 20250520141112_947.png",
+    "Clase/S21/20.md",
+    "assets/Excalidraw/ED2025-05-20_12.02.05.md",
+    "assets/Excalidraw/ED2025-05-20_13.13.00.md",
+    "assets/Pasted image 20250520121237.png",
+    "assets/Pasted Image 20250520120309_694.png",
+    "assets/Pasted Image 20250520120210_599.png",
+    "assets/Excalidraw/ED2025-05-20_11.00.46.md",
+    "assets/Pasted Image 20250520110745_281.png",
+    "assets/Pasted Image 20250520110133_990.png",
+    "assets/Pasted Image 20250520110054_466.png",
+    "assets/Excalidraw/ED2025-05-20_09.59.45.md",
+    "assets/Pasted Image 20250520102254_426.png",
+    "assets/Pasted Image 20250520100017_511.png",
+    "assets/Excalidraw/ED2025-05-20_09.42.51.md",
+    "assets/Excalidraw/ED2025-05-20_09.36.45.md",
+    "assets/Excalidraw/ED2025-05-20_09.27.02.md",
     "Clase/S21/19.md",
+    "assets/Excalidraw/ED2025-05-19_20.00.17.md",
     "assets/Excalidraw/ED2025-05-19_13.28.18.md",
     "assets/Excalidraw/ED2025-05-19_21.57.09.md",
-    "assets/Pasted Image 20250519215740_357.png",
     "assets/Excalidraw/ED2025-05-19_21.53.01.md",
-    "assets/Pasted Image 20250519215341_819.png",
     "assets/Excalidraw/ED2025-05-19_21.49.04.md",
-    "assets/Pasted Image 20250519215007_601.png",
     "assets/Excalidraw/ED2025-05-19_21.47.18.md",
-    "assets/Pasted Image 20250519214733_534.png",
-    "assets/Pasted Image 20250519200049_049.png",
     "Drawer/Prompts/Subconsulta en SQL.md",
-    "Clase/S21/20.md",
     "Drawer/Prompts/Más acerca de la herencia.md",
     "Drawer/Prompts/Herencia.md",
     "Drawer/IA.md",
@@ -208,21 +220,8 @@
     "Clase/S21",
     "Clase/S20/16.md",
     "Clase/S20/18.md",
-    "assets/Pasted image 20250518161521.png",
     "Clase/S20/17.md",
     "assets/Excalidraw/ED2025-05-17_21.57.34.md",
-    "assets/Pasted image 20250517222036.png",
-    "assets/Pasted image 20250517222019.png",
-    "assets/Pasted image 20250517221540.png",
-    "assets/Pasted image 20250517221325.png",
-    "assets/Excalidraw/ED2025-05-17_20.13.50.md",
-    "assets/Excalidraw/ED2025-05-17_21.55.03.md",
-    "assets/Excalidraw/ED2025-05-17_20.07.57.md",
-    "assets/Excalidraw/ED2025-05-16_14.07.58.md",
-    "assets/Excalidraw/ED2025-05-16_14.21.52.md",
-    "assets/Excalidraw/ED2025-05-16_12.05.37.md",
-    "assets/Excalidraw/ED2025-05-16_12.23.52.md",
-    "Clase/S20/15.md",
     "Clase/S20",
     "Sin título-2025-05-11-1751.excalidraw",
     "Sin título-2025-05-11-1751.excalidraw.crswap",
