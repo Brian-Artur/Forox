@@ -13,24 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clase/S21/20.md",
+                "file": "Clase/S21/21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20"
+              "title": "21"
             }
           },
           {
-            "id": "adfe4d2a669f7988",
+            "id": "f17aa3c57da18e58",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "assets/Excalidraw/ED2025-05-20_14.11.06.md"
+                "file": "assets/Excalidraw/ED2025-05-21_13.36.27.md"
               },
               "icon": "excalidraw-icon",
-              "title": "ED2025-05-20_14.11.06"
+              "title": "ED2025-05-21_13.36.27"
+            }
+          },
+          {
+            "id": "3d08d569bf99dbd8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "assets/Excalidraw/ED2025-05-21_13.31.24.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ED2025-05-21_13.31.24"
             }
           }
         ]
@@ -90,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "87137d9fcc14686d",
@@ -184,50 +197,50 @@
   },
   "active": "a0dc17ac428610a3",
   "lastOpenFiles": [
+    "assets/Excalidraw/ED2025-05-21_13.31.24.md",
+    "assets/Excalidraw/ED2025-05-21_13.36.27.md",
+    "Clase/S21/21.md",
+    "assets/Pasted image 20250521135851.png",
+    "assets/Pasted Image 20250521133658_746.png",
+    "assets/Pasted Image 20250521133227_306.png",
+    "assets/Excalidraw/ED2025-05-21_12.35.05.md",
+    "assets/Pasted Image 20250521123536_633.png",
+    "assets/Pasted image 20250521122734.png",
+    "assets/Excalidraw/ED2025-05-21_12.26.37.md",
+    "assets/Pasted Image 20250521122709_422.png",
+    "assets/Excalidraw/ED2025-05-21_12.06.19.md",
+    "assets/Pasted Image 20250521122529_060.png",
+    "assets/Pasted Image 20250521120706_967.png",
+    "assets/Pasted Image 20250521120623_013.png",
+    "assets/Excalidraw/ED2025-05-21_11.59.23.md",
+    "assets/Pasted Image 20250521115954_933.png",
+    "assets/Excalidraw/ED2025-05-21_10.55.07.md",
+    "assets/Excalidraw/ED2025-05-21_09.55.02.md",
+    "assets/Excalidraw/ED2025-05-21_09.47.48.md",
+    "assets/Excalidraw/ED2025-05-21_09.06.57.md",
+    "Drawer/SQL/Subconsultas.md",
+    "assets/Excalidraw/ED2025-05-21_08.58.17.md",
     "assets/Excalidraw/ED2025-05-20_14.11.06.md",
-    "assets/Pasted Image 20250520141147_606.png",
-    "assets/Pasted Image 20250520141112_947.png",
+    "Drawer/Python.md",
+    "Drawer/SQL",
+    "Drawer/HTML & CSS.md",
+    "Drawer/Git.md",
+    "Drawer/Prompts/Herencia.md",
+    "Drawer/Prompts/Subconsulta en SQL.md",
+    "Drawer/Prompts/Más acerca de la herencia.md",
+    "Clase/SQL.md",
     "Clase/S21/20.md",
     "assets/Excalidraw/ED2025-05-20_12.02.05.md",
     "assets/Excalidraw/ED2025-05-20_13.13.00.md",
-    "assets/Pasted image 20250520121237.png",
-    "assets/Pasted Image 20250520120309_694.png",
-    "assets/Pasted Image 20250520120210_599.png",
     "assets/Excalidraw/ED2025-05-20_11.00.46.md",
-    "assets/Pasted Image 20250520110745_281.png",
-    "assets/Pasted Image 20250520110133_990.png",
-    "assets/Pasted Image 20250520110054_466.png",
-    "assets/Excalidraw/ED2025-05-20_09.59.45.md",
-    "assets/Pasted Image 20250520102254_426.png",
-    "assets/Pasted Image 20250520100017_511.png",
-    "assets/Excalidraw/ED2025-05-20_09.42.51.md",
-    "assets/Excalidraw/ED2025-05-20_09.36.45.md",
-    "assets/Excalidraw/ED2025-05-20_09.27.02.md",
-    "Clase/S21/19.md",
-    "assets/Excalidraw/ED2025-05-19_20.00.17.md",
-    "assets/Excalidraw/ED2025-05-19_13.28.18.md",
-    "assets/Excalidraw/ED2025-05-19_21.57.09.md",
-    "assets/Excalidraw/ED2025-05-19_21.53.01.md",
-    "assets/Excalidraw/ED2025-05-19_21.49.04.md",
-    "assets/Excalidraw/ED2025-05-19_21.47.18.md",
-    "Drawer/Prompts/Subconsulta en SQL.md",
-    "Drawer/Prompts/Más acerca de la herencia.md",
-    "Drawer/Prompts/Herencia.md",
-    "Drawer/IA.md",
     "Drawer/Prompts",
-    "assets/Excalidraw/ED2025-05-19_12.35.20.md",
     "Drawer/pdf/IFCD0210-MF0492_3-UF1845-Acceso-a-datos-en-aplicaciones-web-del-entorno-servidor-Alejandro-Bernabe-Duran.pdf",
     "Clase/S21",
-    "Clase/S20/16.md",
-    "Clase/S20/18.md",
-    "Clase/S20/17.md",
-    "assets/Excalidraw/ED2025-05-17_21.57.34.md",
     "Clase/S20",
     "Sin título-2025-05-11-1751.excalidraw",
     "Sin título-2025-05-11-1751.excalidraw.crswap",
     "Drawer/pdf/IFCD0210-MF0492_3-UF1844-Desarrollo-de-aplicaciones-web-en-el-entorno-servidor-Rafael-Luis-Granados-LaPaz_.pdf",
     "Clase/S19",
-    "Drawer/pdf/Guía_rápida_UF1843_espanol.pdf",
-    "sakila-db.zip.url"
+    "Drawer/pdf/Guía_rápida_UF1843_espanol.pdf"
   ]
 }
