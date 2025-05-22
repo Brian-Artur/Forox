@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clase/S21/20.md",
+                "file": "Drawer/JavaScript/Asincronía/setInterval.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20"
+              "title": "setInterval"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "28680fe8da750ca7",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clase/S21/20.md",
+                "file": "Clase/S21/21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 20"
+              "title": "Enlaces entrantes de 21"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clase/S21/20.md",
+                "file": "Clase/S21/21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 20"
+              "title": "Enlaces salientes de 21"
             }
           },
           {
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clase/S21/20.md",
+                "file": "Clase/S21/21.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 20"
+              "title": "Esquema de 21"
             }
           }
         ]
@@ -172,6 +173,20 @@
   },
   "active": "b4e24f010ca61787",
   "lastOpenFiles": [
+    "assets/Excalidraw/ED2025-05-22_07.28.35.md",
+    "Drawer/JavaScript/Asincronía/setInterval.md",
+    "assets/Pasted Image 20250522073256_332.png",
+    "assets/Pasted Image 20250522072907_404.png",
+    "Clase/git.md",
+    "Drawer/JavaScript/Asincronía",
+    "Drawer/JavaScript",
+    "Clase/JS.md",
+    "Clase/SQL.md",
+    "Drawer/Styles.md",
+    "Drawer/Servidor & Cliente.md",
+    "Drawer/Python.md",
+    "Drawer/IA.md",
+    "Drawer/SQL/Subconsultas.md",
     "Clase/S21/21.md",
     "Clase/S21/20.md"
   ]
