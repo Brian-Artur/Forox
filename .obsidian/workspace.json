@@ -13,24 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clase/S22/26.md",
+                "file": "Clase/S22/27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26"
+              "title": "27"
             }
           },
           {
-            "id": "d65ac8e705cd64fb",
+            "id": "6b5023acc3ac553f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "assets/Excalidraw/ED2025-05-27_07.03.15.md"
+                "file": "assets/Excalidraw/ED2025-05-27_09.43.08.md"
               },
               "icon": "excalidraw-icon",
-              "title": "ED2025-05-27_07.03.15"
+              "title": "ED2025-05-27_09.43.08"
             }
           }
         ],
@@ -57,7 +57,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "28680fe8da750ca7",
@@ -173,21 +174,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "handwritten-notes:Create empty handwritten note": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d65ac8e705cd64fb",
+  "active": "6b5023acc3ac553f",
   "lastOpenFiles": [
-    "Clase/S22/26.md",
-    "assets/Excalidraw/ED2025-05-27_07.03.15.md",
     "Clase/S22/27.md",
+    "assets/Excalidraw/ED2025-05-27_09.43.08.md",
+    "assets/Pasted image 20250527092123.png",
+    "Clase/S22/26.md",
+    "Clase/S21/22.md",
+    "Clase/S21/23.md",
+    "assets/Excalidraw/ED2025-05-27_07.03.15.md",
     "2025-05-25-callback.svg",
     "Clase/S22",
     "Drawer/JavaScript/Promesas/Promesas.md",
@@ -212,7 +217,6 @@
     "Drawer/JavaScript/Asincronía/setTimeout.md",
     "assets/Excalidraw/ED2025-05-22_08.46.26.md",
     "assets/Excalidraw/ED2025-05-22_07.28.35.md",
-    "assets/Pasted Image 20250522072907_404.png",
     "Drawer/JavaScript/Asincronía/setInterval_setTimeout_promise.md",
     "Drawer/JavaScript/Asincronía/setInterval.md",
     "assets/Excalidraw/ED2025-05-24_11.45.00.md",
@@ -224,9 +228,6 @@
     "Drawer/Front/Content.md",
     "Drawer/Front/Layout.md",
     "Drawer/Front/Bootstrap.md",
-    "Drawer/Front/Bundle.md",
-    "Drawer/Front/Popper.js.md",
-    "assets/Excalidraw/ED2025-05-24_17.05.37.md",
     "Drawer/Back",
     "Drawer/Front",
     "Drawer/JavaScript/Asincronía",
