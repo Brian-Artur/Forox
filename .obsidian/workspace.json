@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clase/S22/ChatGPT-Explicación código frontend.md",
+                "file": "Drawer/JavaScript/Asincronía_promada/setTimeout.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ChatGPT-Explicación código frontend"
+              "title": "setTimeout"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -160,29 +160,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "handwritten-notes:Create empty handwritten note": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "19b21a3ab8ae5c8e",
   "lastOpenFiles": [
-    "Drawer/JavaScript/Async_Await/Async_Await.md",
-    "Clase/S22/ChatGPT-Explicación código frontend.md",
-    "Drawer/JavaScript/Asincronía_promada/setInterval_setTimeout_promise.md",
-    "Drawer/JavaScript/Promesas/Promesas.md",
-    "Drawer/JavaScript/Eventos/Eventos.md",
-    "Drawer/JavaScript/Callbacks/Callback.md",
+    "Clase/S20/15.md",
+    "assets/2025-05-25_17-40.svg",
+    "assets/1201d objeto por partes.svg",
+    "Clase/S20/12.md",
+    "Clase/S20/13.md",
+    "Clase/S20/14.md",
+    "Clase/S20/16.md",
+    "Clase/S21/22.md",
+    "Clase/S22/Explicación Express.md",
     "Clase/S22/27.md",
+    "Clase/S22/Explicación c.md",
+    "Clase/S22/ChatGPT-Explicación código frontend (2).md",
+    "Drawer/JavaScript/Asincronía_promada/setTimeout.md",
+    "Clase/Accesibilidad y Usabilidad.md",
+    "Clase/Etiquetas Semánticas.md",
+    "Drawer/JavaScript/Callbacks/Callback.md",
+    "Drawer/JavaScript/Eventos/Eventos.md",
+    "Drawer/JavaScript/Promesas/Promesas.md",
+    "Drawer/JavaScript/Asincronía_promada/Sustitucion_por_promesas.md",
+    "Drawer/JavaScript/Asincronía_promada/setInterval.md",
+    "Drawer/JavaScript/Asincronía_promada/setInterval_setTimeout_promise.md",
+    "Drawer/JavaScript/Async_Await/Async_Await.md",
     "assets/Excalidraw/ED2025-05-27_09.43.08.md",
     "assets/Pasted image 20250527092123.png",
     "Clase/S22/26.md",
-    "Clase/S21/22.md",
     "Clase/S21/23.md",
     "assets/Excalidraw/ED2025-05-27_07.03.15.md",
     "2025-05-25-callback.svg",
@@ -193,27 +207,12 @@
     "assets/2025-05-25_18-35.svg",
     "assets/2025-05-25_18-21.svg",
     "assets/2025-05-25_17-50.svg",
-    "assets/2025-05-25_17-40.svg",
-    "assets/2025-05-25_17-30.svg",
     "Drawer/JavaScript/Async_Await",
     "Drawer/JavaScript/Promesas",
     "Drawer/JavaScript/Eventos",
     "2025-05-25-callback.svg.crswap",
-    "Drawer/JavaScript/Asincronía_promada/Sustitucion_por_promesas.md",
     "Drawer/JavaScript/Callbacks",
     "assets/Excalidraw/ED2025-05-24_12.09.28.md",
-    "Drawer/JavaScript/Asincronía_promada/setTimeout.md",
-    "assets/Excalidraw/ED2025-05-22_08.46.26.md",
-    "assets/Excalidraw/ED2025-05-22_07.28.35.md",
-    "Drawer/JavaScript/Asincronía_promada/setInterval.md",
-    "assets/Excalidraw/ED2025-05-24_11.45.00.md",
-    "assets/Excalidraw/ED2025-05-24_11.59.22.md",
-    "Drawer/Front/Utilities.md",
-    "Drawer/Front/Funcionalidades_bootstrap.md",
-    "Drawer/Front/Helpers.md",
-    "Drawer/Front/Forms.md",
-    "Drawer/Front/Content.md",
-    "Drawer/Front/Layout.md",
     "Drawer/Back",
     "Drawer/Front",
     "Drawer/JavaScript/Asincronía_promada",

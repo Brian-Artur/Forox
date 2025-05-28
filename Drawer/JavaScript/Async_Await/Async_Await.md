@@ -24,7 +24,7 @@ La palabra clave `async` se usa para declarar una función asincrónica. Una f
 - Si la función retorna un valor, la promesa se resuelve con ese valor.
 - Si la función lanza una excepción, la promesa se rechaza con esa excepción.
 
-```
+```js
 async function miFuncion() {
   return 'Hola, mundo';
 }
@@ -40,7 +40,7 @@ La palabra clave `await` se utiliza dentro de una función `async` para espe
 
 `await` pausa la ejecución de la función `async` hasta que la promesa se resuelve o se rechaza.
 
-```
+```js
 async function miFuncion() {
   let valor = await Promise.resolve('Hola, mundo');
   console.log(valor); // 'Hola, mundo'
@@ -55,7 +55,7 @@ En este ejemplo, `await` se usa para esperar a que la promesa se resuelva, y l
 
 Vamos a verlo con un ejemplo sencillo,
 
-```
+```js
 async function obtenerDatos() {
   //funcion que simula devolver una promesa
   const respuesta = await FuncionQueDevuelvePromesa();
@@ -73,7 +73,7 @@ En este ejemplo,
 
 Esto sería equivalente a este código, sin usar async y await
 
-```
+```js
 function obtenerDatos() {
   // Llamar a la función que devuelve una promesa
   FuncionQueDevuelvePromesa()
@@ -96,7 +96,7 @@ Una función `async` siempre devuelve una promesa. Esta promesa se resuelve co
 
 Si se lanza una excepción dentro de la función `async`, la promesa se rechaza con esa excepción.
 
-```
+```js
 async function funcionExito() {
   return 'Éxito';
 }
@@ -118,7 +118,7 @@ En `funcionExito`,
 
 Para manejar errores en funciones `async`, puedes usar `try`/`catch` en lugar de `.catch()` como lo harías con promesas.
 
-```
+```js
 async function obtenerDatos() {
   try {
     let respuesta = await fetch('https://api.example.com/data');
@@ -141,7 +141,7 @@ En este ejemplo, si ocurre un error en cualquier punto dentro del bloque `try`,
 
 Puedes encadenar múltiples operaciones asíncronas dentro de una función `async`.
 
-```
+```js
 async function procesarDatos() {
   let datos = await obtenerDatosDesdeAPI();
   let procesados = await procesarDatos(datos);
@@ -167,7 +167,7 @@ En este ejemplo, `procesarDatos` utiliza `await` para esperar los resultados
 
 Si necesitas ejecutar múltiples operaciones asíncronas en paralelo, puedes usar `Promise.all` con `await`.
 
-```
+```js
 async function realizarOperaciones() {
   let promesa1 = fetch('https://api.example.com/data1');
   let promesa2 = fetch('https://api.example.com/data2');
