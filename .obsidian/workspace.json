@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clase/S22/27.md",
+                "file": "Clase/S22/ChatGPT-Explicación código frontend.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "27"
-            }
-          },
-          {
-            "id": "6b5023acc3ac553f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "assets/Excalidraw/ED2025-05-27_09.43.08.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "ED2025-05-27_09.43.08"
+              "title": "ChatGPT-Explicación código frontend"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -91,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "28680fe8da750ca7",
@@ -174,18 +160,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "handwritten-notes:Create empty handwritten note": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6b5023acc3ac553f",
+  "active": "19b21a3ab8ae5c8e",
   "lastOpenFiles": [
+    "Drawer/JavaScript/Async_Await/Async_Await.md",
+    "Clase/S22/ChatGPT-Explicación código frontend.md",
+    "Drawer/JavaScript/Asincronía_promada/setInterval_setTimeout_promise.md",
+    "Drawer/JavaScript/Promesas/Promesas.md",
+    "Drawer/JavaScript/Eventos/Eventos.md",
+    "Drawer/JavaScript/Callbacks/Callback.md",
     "Clase/S22/27.md",
     "assets/Excalidraw/ED2025-05-27_09.43.08.md",
     "assets/Pasted image 20250527092123.png",
@@ -195,7 +187,6 @@
     "assets/Excalidraw/ED2025-05-27_07.03.15.md",
     "2025-05-25-callback.svg",
     "Clase/S22",
-    "Drawer/JavaScript/Promesas/Promesas.md",
     "assets/2025-05-25_19-40.svg",
     "assets/2025-05-25_19-25.svg",
     "assets/2025-05-25_19-10.svg",
@@ -204,21 +195,17 @@
     "assets/2025-05-25_17-50.svg",
     "assets/2025-05-25_17-40.svg",
     "assets/2025-05-25_17-30.svg",
-    "Drawer/JavaScript/Async_Await/Async_Await.md",
     "Drawer/JavaScript/Async_Await",
-    "Drawer/JavaScript/Eventos/Eventos.md",
     "Drawer/JavaScript/Promesas",
-    "Drawer/JavaScript/Callbacks/Callback.md",
     "Drawer/JavaScript/Eventos",
     "2025-05-25-callback.svg.crswap",
-    "Drawer/JavaScript/Asincronía/Sustitucion_por_promesas.md",
+    "Drawer/JavaScript/Asincronía_promada/Sustitucion_por_promesas.md",
     "Drawer/JavaScript/Callbacks",
     "assets/Excalidraw/ED2025-05-24_12.09.28.md",
-    "Drawer/JavaScript/Asincronía/setTimeout.md",
+    "Drawer/JavaScript/Asincronía_promada/setTimeout.md",
     "assets/Excalidraw/ED2025-05-22_08.46.26.md",
     "assets/Excalidraw/ED2025-05-22_07.28.35.md",
-    "Drawer/JavaScript/Asincronía/setInterval_setTimeout_promise.md",
-    "Drawer/JavaScript/Asincronía/setInterval.md",
+    "Drawer/JavaScript/Asincronía_promada/setInterval.md",
     "assets/Excalidraw/ED2025-05-24_11.45.00.md",
     "assets/Excalidraw/ED2025-05-24_11.59.22.md",
     "Drawer/Front/Utilities.md",
@@ -227,10 +214,9 @@
     "Drawer/Front/Forms.md",
     "Drawer/Front/Content.md",
     "Drawer/Front/Layout.md",
-    "Drawer/Front/Bootstrap.md",
     "Drawer/Back",
     "Drawer/Front",
-    "Drawer/JavaScript/Asincronía",
+    "Drawer/JavaScript/Asincronía_promada",
     "Drawer/JavaScript"
   ]
 }

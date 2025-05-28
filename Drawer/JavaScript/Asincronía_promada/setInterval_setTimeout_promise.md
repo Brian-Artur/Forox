@@ -12,4 +12,4 @@ Tanto `setTimeout` como `setInterval` dependen del **event loop** de JavaS
 2. Una vez transcurrido el tiempo especificado, el **bucle de eventos** coloca la función en la pila de ejecución.
 3. La función se ejecuta cuando la pila de ejecución está vacía.    
 
-[setTimeout](./setTimeout)
+[setTimeout](setTimeout.md)
