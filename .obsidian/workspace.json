@@ -13,11 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Clase/S22/29.md",
+=======
+                "file": "Clase/BlackJackApp/01_estructura.md",
+>>>>>>> 560f108664c52b6c2f43ac43997cbabbd8fbdb94
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "29"
             }
           },
@@ -33,6 +38,9 @@
               },
               "icon": "lucide-file",
               "title": "Explicación Express"
+=======
+              "title": "01_estructura"
+>>>>>>> 560f108664c52b6c2f43ac43997cbabbd8fbdb94
             }
           }
         ],
@@ -59,7 +67,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -175,24 +183,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "handwritten-notes:Create empty handwritten note": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "bf3fc037a6f4acef",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Clase/S22/27.md",
     "Clase/S22/29.md",
+=======
+    "Clase/BlackJackApp/02_backend.md",
+    "Clase/BlackJackApp/01_estructura.md",
+    "Drawer/Back/Conexion_BDD.md",
+    "Clase/S22/SakilaApp.md",
+    "Drawer/Sin nombre 1",
+    "Clase/BlackJackApp",
+    "Clase/S22/31.md",
+    "Clase/S22/Explicación Express.md",
+    "assets/Pasted image 20250531090331.png",
+    "2025-05-25-callback.svg",
+    "Drawer/JavaScript/Asincronía_promada/setTimeout.md",
+    "Clase/S20/15.md",
+    "assets/2025-05-25_17-40.svg",
+    "assets/1201d objeto por partes.svg",
+    "Clase/S20/12.md",
+>>>>>>> 560f108664c52b6c2f43ac43997cbabbd8fbdb94
     "Clase/S20/13.md",
     "Clase/S20/14.md",
     "Clase/S20/16.md",
     "Clase/S21/22.md",
+<<<<<<< HEAD
     "Clase/S22/30.md",
     "assets/Pasted image 20250530110153.png",
     "assets/Excalidraw/ED2025-05-29_09.17.31.md",
@@ -202,6 +229,9 @@
     "assets/1201d objeto por partes.svg",
     "Clase/S20/12.md",
     "Clase/S22/Explicación Express.md",
+=======
+    "Clase/S22/27.md",
+>>>>>>> 560f108664c52b6c2f43ac43997cbabbd8fbdb94
     "Clase/S22/Explicación c.md",
     "Clase/S22/ChatGPT-Explicación código frontend (2).md",
     "Clase/Accesibilidad y Usabilidad.md",
@@ -215,8 +245,11 @@
     "Drawer/JavaScript/Async_Await/Async_Await.md",
     "assets/Excalidraw/ED2025-05-27_09.43.08.md",
     "assets/Pasted image 20250527092123.png",
+<<<<<<< HEAD
     "Clase/S22/26.md",
     "2025-05-25-callback.svg",
+=======
+>>>>>>> 560f108664c52b6c2f43ac43997cbabbd8fbdb94
     "Clase/S22",
     "assets/2025-05-25_19-40.svg",
     "assets/2025-05-25_19-25.svg",
@@ -229,8 +262,6 @@
     "2025-05-25-callback.svg.crswap",
     "Drawer/JavaScript/Callbacks",
     "Drawer/Back",
-    "Drawer/Front",
-    "Drawer/JavaScript/Asincronía_promada",
-    "Drawer/JavaScript"
+    "Drawer/Front"
   ]
 }
