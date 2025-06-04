@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clase/S23/3.md",
+                "file": "Clase/S23/4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3"
+              "title": "4"
+            }
+          },
+          {
+            "id": "9212a1a8cc2b7fea",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "assets/Excalidraw/ED2025-06-03_19.13.48.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ED2025-06-03_19.13.48"
             }
           },
           {
@@ -68,7 +80,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -102,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "126815a5d3bacd76",
@@ -185,30 +196,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "handwritten-notes:Create empty handwritten note": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "7e8f9aeb4733a24d",
   "lastOpenFiles": [
-    "assets/Excalidraw/ED2025-06-03_12.27.46.md",
-    "assets/Excalidraw/ED2025-06-03_09.35.28.md",
+    "assets/Excalidraw/ED2025-06-03_19.13.48.md",
+    "Clase/S23/4.md",
     "Clase/S23/3.md",
-    "Clase/S23/2.md",
-    "assets/Excalidraw/ED2025-06-02_12.54.25.md",
-    "assets/Excalidraw/ED2025-06-02_12.34.15.md",
+    "assets/Excalidraw/ED2025-06-03_12.27.46.md",
+    "TASKS.md",
+    "README.md",
+    "Drawer/Styles.md",
+    "Drawer/Sin título.md",
+    "Drawer/Servidor & Cliente.md",
+    "Drawer/Python.md",
+    "Drawer/HTML & CSS.md",
+    "Drawer/Git.md",
+    "Drawer/Consejos JC.md",
+    "Drawer/SQL/Subconsultas.md",
+    "Drawer/Prompts/Subconsulta en SQL.md",
+    "Drawer/Prompts/Más acerca de la herencia.md",
+    "Drawer/JavaScript/Promesas/Promesas.md",
+    "Drawer/JavaScript/Eventos/Eventos.md",
+    "Drawer/JavaScript/Async_Await/Async_Await.md",
+    "Drawer/JavaScript/Asincronía_promada/Sustitucion_por_promesas.md",
+    "Drawer/JavaScript/Asincronía_promada/setTimeout.md",
+    "Drawer/JavaScript/Asincronía_promada/setInterval.md",
+    "Drawer/Front/Utilities.md",
+    "Drawer/Front/Popper.js.md",
+    "Drawer/Front/Layout.md",
+    "Drawer/Front/Helpers.md",
     "assets/Pasted image 20250602141828.png",
-    "assets/Excalidraw/ED2025-06-02_09.21.23.md",
     "assets/Pasted image 20250602095613.png",
-    "assets/Excalidraw/ED2025-06-02_09.10.50.md",
-    "Clase/BlackJackApp/01_estructura.md",
-    "Clase/S23",
-    "Clase/BlackJackApp/02_backend.md"
+    "Clase/S23"
   ]
 }
