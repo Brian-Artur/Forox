@@ -15,5 +15,5 @@
   },
   "attachmentFolderPath": "assets",
   "showUnsupportedFiles": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": false
 }

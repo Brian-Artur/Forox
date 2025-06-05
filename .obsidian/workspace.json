@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clase/S23/4.md",
+                "file": "Clase/S23/5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4"
-            }
-          },
-          {
-            "id": "ab2ce3bb713d64ec",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "assets/Excalidraw/ED2025-06-04_14.40.39.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "ED2025-06-04_14.40.39"
+              "title": "5"
             }
           }
         ]
@@ -56,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -90,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 215.5,
+    "collapsed": true
   },
   "right": {
     "id": "126815a5d3bacd76",
@@ -172,29 +161,41 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "handwritten-notes:Create empty handwritten note": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "handwritten-notes:Create empty handwritten note": true,
       "obsidian-excalidraw-plugin:New drawing": false,
       "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "7e8f9aeb4733a24d",
   "lastOpenFiles": [
-    "assets/Pasted image 20250604150133.png",
-    "assets/Excalidraw/ED2025-06-04_14.40.39.md",
-    "assets/Pasted Image 20250604144144_993.png",
-    "assets/Pasted Image 20250604144052_329.png",
+    "assets/Excalidraw/ED2025-06-05_10.54.12.md",
+    "Clase/S23/5.md",
+    "assets/Excalidraw/ED2025-06-05_11.10.52.md",
+    "assets/Excalidraw/ED2025-06-05_12.29.11.md",
+    "assets/Pasted Image 20250605111059_365.png",
+    "assets/Pasted Image 20250605105443_918.png",
+    "assets/Excalidraw/ED2025-06-05_10.31.40.md",
+    "assets/Pasted Image 20250605103233_467.png",
+    "assets/Pasted Image 20250605103146_298.png",
+    "assets/Excalidraw/ED2025-06-05_09.32.59.md",
+    "assets/Excalidraw/ED2025-06-05_10.21.09.md",
+    "assets/Pasted Image 20250605102209_834.png",
     "Clase/S23/4.md",
+    "assets/Pasted Image 20250605093356_101.png",
+    "assets/Pasted Image 20250605093315_929.png",
+    "assets/Excalidraw/ED2025-06-05_08.54.37.md",
+    "assets/Pasted Image 20250605085509_813.png",
+    "assets/Excalidraw/ED2025-06-04_14.40.39.md",
+    "assets/Pasted image 20250604150133.png",
+    "assets/Pasted Image 20250604144144_993.png",
     "assets/Excalidraw/ED2025-06-04_09.48.32.md",
-    "assets/Pasted Image 20250604095543_412.png",
-    "assets/Pasted Image 20250604094853_062.png",
     "assets/Excalidraw/ED2025-06-04_09.39.14.md",
-    "assets/Pasted Image 20250604093947_611.png",
     "alter_table.md",
     "assets/Excalidraw/ED2025-06-03_19.13.48.md",
     "Clase/S23/3.md",
@@ -209,15 +210,6 @@
     "Drawer/Git.md",
     "Drawer/Consejos JC.md",
     "Drawer/SQL/Subconsultas.md",
-    "Drawer/Prompts/Subconsulta en SQL.md",
-    "Drawer/Prompts/Más acerca de la herencia.md",
-    "Drawer/JavaScript/Promesas/Promesas.md",
-    "Drawer/JavaScript/Eventos/Eventos.md",
-    "Drawer/JavaScript/Async_Await/Async_Await.md",
-    "Drawer/JavaScript/Asincronía_promada/Sustitucion_por_promesas.md",
-    "Drawer/JavaScript/Asincronía_promada/setTimeout.md",
-    "assets/Pasted image 20250602141828.png",
-    "assets/Pasted image 20250602095613.png",
     "Clase/S23"
   ]
 }
