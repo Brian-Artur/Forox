@@ -13,36 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clase/S24/9.md",
+                "file": "Clase/S24/10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9"
+              "title": "10"
             }
           },
           {
-            "id": "45e422d5e712fa00",
+            "id": "b87dc7e69b215fe1",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "assets/Excalidraw/ED2025-06-08_10.17.52.md"
+                "file": "assets/Excalidraw/ED2025-06-10_13.59.40.md"
               },
               "icon": "excalidraw-icon",
-              "title": "ED2025-06-08_10.17.52"
-            }
-          },
-          {
-            "id": "2145b4d9cae34ddb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "assets/Excalidraw/ED2025-06-08_10.33.15.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "ED2025-06-08_10.33.15"
+              "title": "ED2025-06-10_13.59.40"
             }
           }
         ]
@@ -102,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5,
-    "collapsed": true
+    "width": 210.5
   },
   "right": {
     "id": "ec9cc348fad53693",
@@ -198,15 +185,23 @@
   },
   "active": "dbf7617ca91d7a05",
   "lastOpenFiles": [
-    "Clase/BlackJackApp/01_estructura.md",
+    "assets/Excalidraw/ED2025-06-10_13.59.40.md",
+    "assets/Pasted Image 20250610140012_095.png",
+    "Clase/S24/10.md",
+    "assets/Excalidraw/ED2025-06-10_12.45.15.md",
+    "assets/Excalidraw/ED2025-06-10_12.58.29.md",
+    "assets/Pasted Image 20250610125948_260.png",
+    "assets/Pasted Image 20250610125835_792.png",
+    "assets/Excalidraw/ED2025-06-10_09.43.56.md",
     "Clase/S24/9.md",
+    "assets/Excalidraw/ED2025-06-08_10.17.52.md",
+    "Clase/BlackJackApp/01_estructura.md",
     "Clase/S24",
     "Clase/BlackJackApp/02_backend.md",
     "Drawer/Linux/Instalar LAMP.md",
     "Drawer/Linux/Instalar Debian 12.md",
     "assets/Excalidraw/ED2025-06-08_10.33.15.md",
     "assets/Pasted Image 20250608103347_505.png",
-    "assets/Excalidraw/ED2025-06-08_10.17.52.md",
     "assets/Pasted Image 20250608102935_141.png",
     "assets/Pasted Image 20250608102837_160.png",
     "assets/Excalidraw/ED2025-06-08_10.01.54.md",
@@ -215,9 +210,6 @@
     "assets/Pasted Image 20250608101327_043.png",
     "assets/Pasted Image 20250608100909_465.png",
     "assets/Pasted Image 20250608100801_305.png",
-    "assets/Pasted Image 20250608100710_306.png",
-    "assets/Pasted Image 20250608100427_119.png",
-    "assets/Pasted Image 20250608100344_672.png",
     "assets/Excalidraw/Draw 25-03-24 12.27.04.excalidraw.md",
     "Drawer/Prompts/Más acerca de la herencia.md",
     "Drawer/Prompts/Herencia.md",
@@ -229,12 +221,6 @@
     "assets/Excalidraw/Drawing 2025-04-03 10.05.34.excalidraw.md",
     "assets/Excalidraw/Drawing 2025-04-03 09.55.31.excalidraw.md",
     "assets/Excalidraw/Drawing 2025-04-03 09.50.22.excalidraw.md",
-    "assets/Excalidraw/Drawing 2025-04-03 09.28.46.excalidraw.md",
-    "assets/Excalidraw/Drawing 2025-04-02 18.15.05.excalidraw.md",
-    "assets/Excalidraw/Drawing 2025-04-02 11.57.28.excalidraw.md",
-    "assets/Excalidraw/Drawing 2025-04-02 11.52.56.excalidraw.md",
-    "assets/Excalidraw/Drawing 2025-04-02 10.57.22.excalidraw.md",
-    "assets/Excalidraw/Drawing 2025-04-02 10.11.29.excalidraw.md",
     "Drawer/Linux"
   ]
 }
