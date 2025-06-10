@@ -1,8 +1,9 @@
 {
-  "cssTheme": "Things",
-  "accentColor": "#cb5d8d",
-  "theme": "moonstone",
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "#be4b79",
+  "theme": "obsidian",
   "nativeMenus": false,
   "baseFontSizeAction": false,
-  "baseFontSize": 16
+  "baseFontSize": 17,
+  "monospaceFontFamily": "Fira Code"
 }

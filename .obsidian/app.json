@@ -1,5 +1,5 @@
 {
-  "showLineNumber": true,
+  "showLineNumber": false,
   "foldIndent": true,
   "showIndentGuide": true,
   "strictLineBreaks": true,
@@ -15,5 +15,8 @@
   },
   "attachmentFolderPath": "assets",
   "showUnsupportedFiles": true,
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "focusNewTab": true,
+  "readableLineLength": true,
+  "tabSize": 3
 }
