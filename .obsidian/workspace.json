@@ -13,24 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/11_variable_sin_valor.md",
+                "file": "Clase/S24/11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11_variable_sin_valor"
+              "title": "11"
             }
           },
           {
-            "id": "f0b9705f8add1c93",
+            "id": "b976fcbd748f98c0",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "assets/Excalidraw/ED2025-06-10_21.09.48.md"
+                "file": "assets/Excalidraw/ED2025-06-11_12.51.57.md"
               },
               "icon": "excalidraw-icon",
-              "title": "ED2025-06-10_21.09.48"
+              "title": "ED2025-06-11_12.51.57"
             }
           }
         ]
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5,
-    "collapsed": true
+    "width": 210.5
   },
   "right": {
     "id": "ec9cc348fad53693",
@@ -186,13 +185,29 @@
   },
   "active": "dbf7617ca91d7a05",
   "lastOpenFiles": [
-    "Python/10_cambiar_tipo.md",
+    "ejercicio_lista/assets/mesa2.jpg",
+    "ejercicio_lista/assets/libreta.png",
+    "ejercicio_lista/assets/goma.png",
+    "ejercicio_lista/assets",
+    "ejercicio_lista/styles.css",
+    "ejercicio_lista/index.html",
+    "ejercicio_lista/app.js",
+    "ejercicio_lista",
+    "mini_ejer_lista.zip",
+    "assets/Excalidraw/ED2025-06-11_12.51.57.md",
+    "Clase/S24/11.md",
+    "assets/Excalidraw/ED2025-06-11_10.10.08.md",
+    "assets/Excalidraw/ED2025-06-11_09.27.46.md",
+    "assets/Excalidraw/ED2025-06-11_10.01.14.md",
+    "assets/Excalidraw/ED2025-06-11_09.33.25.md",
+    "assets/Excalidraw/ED2025-06-10_21.09.48.md",
+    "Python/12_colecciones.md",
     "Python/11_variable_sin_valor.md",
+    "Python/10_cambiar_tipo.md",
     "Python/08_variables_una_linea.md",
     "Python/09_sentencias_una_linea.md",
     "assets/Pasted image 20250610215541.png",
     "Python/07_print.md",
-    "assets/Excalidraw/ED2025-06-10_21.09.48.md",
     "assets/Pasted Image 20250610211023_018.png",
     "Python/06_operadores_especiales.md",
     "Python/05_number.md",
@@ -208,22 +223,12 @@
     "Clase/S24/9.md",
     "assets/Pasted Image 20250610140012_095.png",
     "assets/Excalidraw/ED2025-06-10_12.45.15.md",
-    "assets/Excalidraw/ED2025-06-10_12.58.29.md",
     "assets/Pasted Image 20250610125948_260.png",
     "assets/Pasted Image 20250610125835_792.png",
-    "assets/Excalidraw/ED2025-06-10_09.43.56.md",
-    "assets/Excalidraw/ED2025-06-08_10.17.52.md",
-    "Clase/BlackJackApp/01_estructura.md",
     "Clase/S24",
-    "Clase/BlackJackApp/02_backend.md",
-    "Drawer/Linux/Instalar LAMP.md",
-    "Drawer/Linux/Instalar Debian 12.md",
-    "assets/Excalidraw/ED2025-06-08_10.33.15.md",
     "assets/Pasted Image 20250608103347_505.png",
     "assets/Pasted Image 20250608102935_141.png",
     "assets/Pasted Image 20250608102837_160.png",
-    "assets/Pasted Image 20250608101759_418.png",
-    "assets/Pasted Image 20250608101327_043.png",
     "Drawer/Linux"
   ]
 }
