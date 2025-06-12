@@ -13,24 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clase/S24/11.md",
+                "file": "Python/15_list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11"
+              "title": "15_list"
             }
           },
           {
-            "id": "b976fcbd748f98c0",
+            "id": "1a1a3cafb3e376fc",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "assets/Excalidraw/ED2025-06-11_12.51.57.md"
+                "file": "assets/Excalidraw/ED2025-06-12_07.30.52.md"
               },
               "icon": "excalidraw-icon",
-              "title": "ED2025-06-11_12.51.57"
+              "title": "ED2025-06-12_07.30.52"
             }
           }
         ]
@@ -185,9 +185,32 @@
   },
   "active": "dbf7617ca91d7a05",
   "lastOpenFiles": [
-    "ejercicio_lista/assets/mesa2.jpg",
-    "ejercicio_lista/assets/libreta.png",
-    "ejercicio_lista/assets/goma.png",
+    "Python/05_number.md",
+    "Python/04_string.md",
+    "Python/03_comentarios.md",
+    "Python/15_list.md",
+    "assets/Pasted image 20250612073600.png",
+    "assets/Excalidraw/ED2025-06-12_07.30.52.md",
+    "assets/Excalidraw/ED2025-06-12_07.13.37.md",
+    "assets/Pasted Image 20250612073117_279.png",
+    "assets/Pasted Image 20250612073058_638.png",
+    "assets/Pasted Image 20250612071450_764.png",
+    "assets/Pasted image 20250612071222.png",
+    "assets/Pasted image 20250612070123.png",
+    "assets/Pasted image 20250612065447.png",
+    "assets/Excalidraw/ED2025-06-12_06.47.31.md",
+    "Python/14_operadores_logicos.md",
+    "assets/Excalidraw/ED2025-06-11_21.29.04.md",
+    "assets/Pasted Image 20250612064803_420.png",
+    "assets/Pasted image 20250611223432.png",
+    "assets/Pasted image 20250611223341.png",
+    "Python/07_print.md",
+    "Python/13_operadores_comparacion.md",
+    "Python/08_variables_una_linea.md",
+    "Python/06_operadores_especiales.md",
+    "Python/11_variable_sin_valor.md",
+    "Python/12_colecciones.md",
+    "Clase/S24/11.md",
     "ejercicio_lista/assets",
     "ejercicio_lista/styles.css",
     "ejercicio_lista/index.html",
@@ -195,40 +218,16 @@
     "ejercicio_lista",
     "mini_ejer_lista.zip",
     "assets/Excalidraw/ED2025-06-11_12.51.57.md",
-    "Clase/S24/11.md",
     "assets/Excalidraw/ED2025-06-11_10.10.08.md",
     "assets/Excalidraw/ED2025-06-11_09.27.46.md",
     "assets/Excalidraw/ED2025-06-11_10.01.14.md",
     "assets/Excalidraw/ED2025-06-11_09.33.25.md",
     "assets/Excalidraw/ED2025-06-10_21.09.48.md",
-    "Python/12_colecciones.md",
-    "Python/11_variable_sin_valor.md",
     "Python/10_cambiar_tipo.md",
-    "Python/08_variables_una_linea.md",
     "Python/09_sentencias_una_linea.md",
-    "assets/Pasted image 20250610215541.png",
-    "Python/07_print.md",
-    "assets/Pasted Image 20250610211023_018.png",
-    "Python/06_operadores_especiales.md",
-    "Python/05_number.md",
     "Python/07_conversión de tipos.md",
-    "Python/04_string.md",
-    "Python/03_comentarios.md",
-    "Python/00_recursos.md",
-    "Python/01_configuracion.md",
-    "Clase/S24/10.md",
-    "assets/Excalidraw/ED2025-06-10_13.59.40.md",
-    "Drawer/Python.md",
     "Python",
-    "Clase/S24/9.md",
-    "assets/Pasted Image 20250610140012_095.png",
-    "assets/Excalidraw/ED2025-06-10_12.45.15.md",
-    "assets/Pasted Image 20250610125948_260.png",
-    "assets/Pasted Image 20250610125835_792.png",
     "Clase/S24",
-    "assets/Pasted Image 20250608103347_505.png",
-    "assets/Pasted Image 20250608102935_141.png",
-    "assets/Pasted Image 20250608102837_160.png",
     "Drawer/Linux"
   ]
 }
