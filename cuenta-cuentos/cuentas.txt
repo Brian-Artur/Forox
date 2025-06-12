@@ -1,0 +1,13 @@
+Base de datos:
+cuenta_cuentos
+
+
+Usuario:
+Nombre: cuentosV<\8s22
+Contraseña: 9`u@N0"&o>24h62?nG0s
+
+WP
+Sitio: El contador
+Admin: cuentito
+Password: pCu2THQsib5sIVeWZc
+Email: tuxon@smart.com

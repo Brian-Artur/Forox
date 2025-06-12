@@ -11,3 +11,13 @@ Al contrario que en JavaScript, aquí es necesario desestructurar todos los elem
 ## Contatenación
 ![[Pasted image 20250612073600.png|300]]
 Sumamos todo el contenido de las listas en el mismo orden, en una nueva lista. Pero no hay listas internas.
+
+## Eliminación de elementos
+![[Pasted image 20250612085416.png]]
+De esta manera estamos eliminando el tercer elemento de la lista.
+
+|Método|¿Qué hace?|
+|---|---|
+|`del lista[i]`|Elimina el elemento por índice|
+|`lista.pop(i)`|Igual que `del`, pero lo **devuelve**|
+|`lista.remove(x)`|Elimina el **primer** valor igual a `x`|

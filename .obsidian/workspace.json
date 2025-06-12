@@ -13,24 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/15_list.md",
+                "file": "Clase/S24/12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15_list"
+              "title": "12"
             }
           },
           {
-            "id": "1a1a3cafb3e376fc",
+            "id": "af8a7c26ef64f96f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "assets/Excalidraw/ED2025-06-12_07.30.52.md"
+                "file": "assets/Excalidraw/ED2025-06-12_14.51.17.md"
               },
               "icon": "excalidraw-icon",
-              "title": "ED2025-06-12_07.30.52"
+              "title": "ED2025-06-12_14.51.17"
+            }
+          },
+          {
+            "id": "3202b535a656001d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "assets/Excalidraw/ED2025-06-11_09.27.46.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ED2025-06-11_09.27.46"
             }
           }
         ]
@@ -185,10 +197,35 @@
   },
   "active": "dbf7617ca91d7a05",
   "lastOpenFiles": [
+    "cuenta-cuentos/wp-admin/css/colors/sunrise/colors.scss",
+    "cuenta-cuentos/wp-admin/css/colors/sunrise/colors.min.css",
+    "cuenta-cuentos/wp-admin/css/colors/sunrise/colors.css",
+    "cuenta-cuentos/wp-admin/css/colors/sunrise/colors-rtl.min.css",
+    "cuenta-cuentos/wp-admin/css/colors/sunrise/colors-rtl.css",
+    "cuenta-cuentos/wp-admin/css/colors/ocean/colors.scss",
+    "cuenta-cuentos/wp-admin/css/colors/ocean/colors.min.css",
+    "cuenta-cuentos/wp-admin/css/colors/ocean/colors.css",
+    "cuenta-cuentos/wp-admin/css/colors/ocean/colors-rtl.min.css",
+    "cuenta-cuentos/wp-admin/css/colors/ocean/colors-rtl.css",
+    "cuenta-cuentos/wp-admin/css/colors/modern/colors.scss",
+    "assets/Excalidraw/ED2025-06-12_14.51.17.md",
+    "assets/Pasted Image 20250612145135_939.png",
+    "assets/Pasted Image 20250612145121_504.png",
+    "Clase/S24/12.md",
+    "assets/Pasted image 20250612142324.png",
+    "Clase/S24/11.md",
+    "assets/Excalidraw/ED2025-06-11_09.27.46.md",
+    "Clase/S24/9.md",
+    "Clase/S24/10.md",
+    "assets/Excalidraw/ED2025-06-12_09.26.40.md",
+    "Python/17_set.md",
+    "Python/16_tuple.md",
+    "Python/15_list.md",
+    "assets/Pasted image 20250612085416.png",
+    "Python/14_operadores_logicos.md",
     "Python/05_number.md",
     "Python/04_string.md",
     "Python/03_comentarios.md",
-    "Python/15_list.md",
     "assets/Pasted image 20250612073600.png",
     "assets/Excalidraw/ED2025-06-12_07.30.52.md",
     "assets/Excalidraw/ED2025-06-12_07.13.37.md",
@@ -197,37 +234,14 @@
     "assets/Pasted Image 20250612071450_764.png",
     "assets/Pasted image 20250612071222.png",
     "assets/Pasted image 20250612070123.png",
-    "assets/Pasted image 20250612065447.png",
     "assets/Excalidraw/ED2025-06-12_06.47.31.md",
-    "Python/14_operadores_logicos.md",
     "assets/Excalidraw/ED2025-06-11_21.29.04.md",
-    "assets/Pasted Image 20250612064803_420.png",
-    "assets/Pasted image 20250611223432.png",
-    "assets/Pasted image 20250611223341.png",
     "Python/07_print.md",
     "Python/13_operadores_comparacion.md",
     "Python/08_variables_una_linea.md",
     "Python/06_operadores_especiales.md",
     "Python/11_variable_sin_valor.md",
     "Python/12_colecciones.md",
-    "Clase/S24/11.md",
-    "ejercicio_lista/assets",
-    "ejercicio_lista/styles.css",
-    "ejercicio_lista/index.html",
-    "ejercicio_lista/app.js",
-    "ejercicio_lista",
-    "mini_ejer_lista.zip",
-    "assets/Excalidraw/ED2025-06-11_12.51.57.md",
-    "assets/Excalidraw/ED2025-06-11_10.10.08.md",
-    "assets/Excalidraw/ED2025-06-11_09.27.46.md",
-    "assets/Excalidraw/ED2025-06-11_10.01.14.md",
-    "assets/Excalidraw/ED2025-06-11_09.33.25.md",
-    "assets/Excalidraw/ED2025-06-10_21.09.48.md",
-    "Python/10_cambiar_tipo.md",
-    "Python/09_sentencias_una_linea.md",
-    "Python/07_conversión de tipos.md",
-    "Python",
-    "Clase/S24",
-    "Drawer/Linux"
+    "assets/Excalidraw/ED2025-06-11_12.51.57.md"
   ]
 }
