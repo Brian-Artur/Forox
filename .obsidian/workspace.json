@@ -13,48 +13,48 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/19_loop.md",
+                "file": "Python/23_class.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19_loop"
+              "title": "23_class"
             }
           },
           {
-            "id": "0a5e4242474f0002",
+            "id": "ca0a6f18c4c0c3af",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "assets/Excalidraw/ED2025-06-13_07.40.09.md"
+                "file": "assets/Excalidraw/ED2025-06-13_14.17.45.md"
               },
               "icon": "excalidraw-icon",
-              "title": "ED2025-06-13_07.40.09"
+              "title": "ED2025-06-13_14.17.45"
             }
           },
           {
-            "id": "235213a8cc118a08",
+            "id": "4a28919362f7ee35",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "assets/Excalidraw/ED2025-06-13_07.34.06.md"
+                "file": "assets/Excalidraw/ED2025-06-13_13.05.39.md"
               },
               "icon": "excalidraw-icon",
-              "title": "ED2025-06-13_07.34.06"
+              "title": "ED2025-06-13_13.05.39"
             }
           },
           {
-            "id": "b7985b33a156ed1b",
+            "id": "44b8ffff4bc31be2",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "assets/Excalidraw/ED2025-06-13_07.26.08.md"
+                "file": "assets/Excalidraw/ED2025-06-13_09.41.14.md"
               },
               "icon": "excalidraw-icon",
-              "title": "ED2025-06-13_07.26.08"
+              "title": "ED2025-06-13_09.41.14"
             }
           }
         ]
@@ -209,10 +209,25 @@
   },
   "active": "dbf7617ca91d7a05",
   "lastOpenFiles": [
-    "assets/Excalidraw/ED2025-06-13_07.40.09.md",
-    "assets/Pasted Image 20250613074041_779.png",
+    "assets/Excalidraw/ED2025-06-13_14.17.45.md",
+    "assets/Pasted Image 20250613141859_048.png",
+    "Python/23_class.md",
+    "Python/22_none.md",
+    "assets/Excalidraw/ED2025-06-13_13.05.39.md",
+    "assets/Pasted Image 20250613131117_975.png",
+    "assets/Pasted Image 20250613130638_916.png",
+    "Clase/S24/13.md",
+    "Python/21_def.md",
+    "assets/Excalidraw/ED2025-06-13_09.41.14.md",
+    "assets/Pasted Image 20250613094150_262.png",
+    "assets/Excalidraw/ED2025-06-13_09.14.13.md",
+    "assets/Pasted Image 20250613091444_926.png",
+    "assets/Excalidraw/ED2025-06-13_09.09.28.md",
+    "assets/Pasted Image 20250613091000_102.png",
     "Python/19_loop.md",
     "Python/20_range.md",
+    "assets/Excalidraw/ED2025-06-13_07.40.09.md",
+    "assets/Pasted Image 20250613074041_779.png",
     "assets/Excalidraw/ED2025-06-13_07.34.06.md",
     "assets/Pasted Image 20250613073445_018.png",
     "Python/12_colecciones.md",
@@ -226,7 +241,6 @@
     "Python/18_conditionals.md",
     "assets/Pasted image 20250613070538.png",
     "assets/Excalidraw/ED2025-06-13_06.54.35.md",
-    "assets/Pasted Image 20250613065507_525.png",
     "Clase/S24/12.md",
     "cuenta-cuentos/wp-admin/css/colors/sunrise/colors.scss",
     "cuenta-cuentos/wp-admin/css/colors/sunrise/colors.min.css",
@@ -239,20 +253,6 @@
     "cuenta-cuentos/wp-admin/css/colors/ocean/colors-rtl.min.css",
     "cuenta-cuentos/wp-admin/css/colors/ocean/colors-rtl.css",
     "assets/Excalidraw/ED2025-06-12_14.51.17.md",
-    "assets/Pasted Image 20250612145135_939.png",
-    "assets/Pasted Image 20250612145121_504.png",
-    "assets/Pasted image 20250612142324.png",
-    "Clase/S24/11.md",
-    "assets/Excalidraw/ED2025-06-11_09.27.46.md",
-    "Clase/S24/9.md",
-    "Clase/S24/10.md",
-    "assets/Excalidraw/ED2025-06-12_09.26.40.md",
-    "assets/Pasted image 20250612085416.png",
-    "Python/05_number.md",
-    "Python/04_string.md",
-    "Python/03_comentarios.md",
-    "assets/Pasted image 20250612073600.png",
-    "assets/Excalidraw/ED2025-06-12_07.30.52.md",
-    "assets/Excalidraw/ED2025-06-12_07.13.37.md"
+    "Clase/S24/11.md"
   ]
 }
