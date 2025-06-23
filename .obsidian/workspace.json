@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/38_web_scraping.md",
+                "file": "Zapatería/Estilos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "38_web_scraping"
+              "title": "Estilos"
             }
           }
         ]
@@ -185,6 +185,14 @@
   },
   "active": "46e3b88911e55f37",
   "lastOpenFiles": [
+    "README.md",
+    "Zapatería/Estilos.md",
+    "assets/2025-05-25-callback.svg",
+    "TASKS.md",
+    "Zapatería/Anotaciones.md",
+    "Python/39_op_rest.md",
+    "Zapatería",
+    "Python/38_web_scraping.md",
     "Ordenador_clase/ejemplo-w3-js/index.html",
     "Ordenador_clase/ejemplo-w3-js/app.js",
     "Ordenador_clase/ejemplo-w3-js/styles.css",
@@ -194,8 +202,6 @@
     "Ordenador_clase/ejemplo-lista",
     "Ordenador_clase/JS-Clases/s07-03-01fundamentos-220624-105848/01-fundamentos/assets/js/bases/valor-referencia.js",
     "Ordenador_clase/JS-Clases/s07-03-01fundamentos-220624-105848/01-fundamentos/assets/js/bases/switch.js",
-    "Ordenador_clase/JS-Clases/s07-03-01fundamentos-220624-105848/01-fundamentos/assets/js/bases/protip-ternario.js",
-    "Ordenador_clase/JS-Clases/s07-03-01fundamentos-220624-105848/01-fundamentos/assets/js/bases/palabras-reservadas.js",
     "Ordenador_clase/JS-BlackJack/s08-07-jsblackjack100-221126-100847/js-blackjack-1.0.0/assets/cartas/10S.png",
     "Ordenador_clase/JS-BlackJack/s08-07-jsblackjack100-221126-100847/js-blackjack-1.0.0/assets/cartas/9S.png",
     "Ordenador_clase/JS-BlackJack/s08-07-jsblackjack100-221126-100847/js-blackjack-1.0.0/assets/cartas/KH.png",
@@ -205,12 +211,10 @@
     "Ordenador_clase/JS-BlackJack/s08-07-jsblackjack100-221126-100847/js-blackjack-1.0.0/assets/cartas/QD.png",
     "Ordenador_clase/JS-BlackJack/s08-07-jsblackjack100-221126-100847/js-blackjack-1.0.0/assets/cartas/QC.png",
     "Ordenador_clase/JS-BlackJack/s08-07-jsblackjack100-221126-100847/js-blackjack-1.0.0/assets/cartas/KS.png",
-    "Ordenador_clase/JS-BlackJack/s08-07-jsblackjack100-221126-100847/js-blackjack-1.0.0/assets/cartas/KD.png",
     "Ordenador_clase/JS-BlackJack/js-blackjack-vite-main/README.md",
     "Ordenador_clase/JS-BlackJack/js-blackjack-master/README.md",
     "Ordenador_clase/ChatGPT-Análisis SQL experto.md",
     "assets/Excalidraw/ED2025-06-15_17.59.48.md",
-    "Python/38_web_scraping.md",
     "Clase/S25/16.md",
     "Python/37_virtual_enviroments.md",
     "Python/36_pip.md",
@@ -227,10 +231,6 @@
     "assets/Excalidraw/ED2025-06-15_07.51.40.md",
     "assets/Excalidraw/ED2025-06-14_23.01.36.md",
     "Python/29_modulo.md",
-    "Sin título.canvas",
-    "Python/17_set.md",
-    "assets/Excalidraw/ED2025-06-14_22.59.20.md",
-    "Python/28_abstraction.md",
-    "Python/27_polymorphism.md"
+    "Sin título.canvas"
   ]
 }
